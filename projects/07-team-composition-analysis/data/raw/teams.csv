@@ -1,0 +1,51 @@
+team_id,team_name,project_type,team_size,formation_date,is_cross_functional
+TEAM001,Research Team 1,Marketing,3,2023-12-07,1
+TEAM002,Product Development Team 2,Product Development,3,2024-09-02,1
+TEAM003,Marketing Team 3,Operations,3,2024-01-09,1
+TEAM004,Marketing Team 4,Research,14,2024-01-20,0
+TEAM005,Marketing Team 5,Marketing,7,2024-12-14,0
+TEAM006,Customer Success Team 6,Operations,4,2023-12-08,0
+TEAM007,Product Development Team 7,Sales,9,2025-03-14,1
+TEAM008,Operations Team 8,Sales,6,2025-02-12,0
+TEAM009,Research Team 9,Product Development,5,2025-03-28,0
+TEAM010,Product Development Team 10,Customer Success,8,2024-12-09,1
+TEAM011,Customer Success Team 11,Product Development,3,2025-02-12,1
+TEAM012,Sales Team 12,Product Development,5,2025-04-02,0
+TEAM013,Infrastructure Team 13,Research,3,2025-06-05,1
+TEAM014,Analytics Team 14,Analytics,6,2024-08-04,1
+TEAM015,Research Team 15,Analytics,3,2024-03-12,1
+TEAM016,Marketing Team 16,Product Development,3,2024-02-23,1
+TEAM017,Sales Team 17,Analytics,4,2025-07-09,0
+TEAM018,Product Development Team 18,Analytics,3,2024-06-24,0
+TEAM019,Infrastructure Team 19,Research,3,2024-03-25,0
+TEAM020,Analytics Team 20,Research,8,2025-05-19,0
+TEAM021,Customer Success Team 21,Operations,3,2025-06-03,1
+TEAM022,Operations Team 22,Sales,3,2023-11-09,1
+TEAM023,Customer Success Team 23,Infrastructure,3,2023-12-07,1
+TEAM024,Sales Team 24,Analytics,11,2024-03-10,0
+TEAM025,Infrastructure Team 25,Research,5,2025-04-14,0
+TEAM026,Marketing Team 26,Infrastructure,3,2024-05-04,1
+TEAM027,Marketing Team 27,Infrastructure,3,2024-08-27,1
+TEAM028,Analytics Team 28,Infrastructure,6,2024-06-10,0
+TEAM029,Research Team 29,Customer Success,3,2024-05-29,1
+TEAM030,Customer Success Team 30,Sales,6,2024-07-22,1
+TEAM031,Operations Team 31,Analytics,3,2025-06-02,1
+TEAM032,Research Team 32,Research,7,2025-05-06,0
+TEAM033,Infrastructure Team 33,Research,10,2024-07-24,0
+TEAM034,Operations Team 34,Product Development,8,2023-12-18,1
+TEAM035,Customer Success Team 35,Research,6,2024-06-15,0
+TEAM036,Customer Success Team 36,Infrastructure,3,2025-06-18,1
+TEAM037,Sales Team 37,Sales,11,2024-08-14,1
+TEAM038,Research Team 38,Marketing,3,2025-03-04,1
+TEAM039,Analytics Team 39,Marketing,3,2025-04-21,0
+TEAM040,Customer Success Team 40,Customer Success,12,2025-04-14,0
+TEAM041,Sales Team 41,Marketing,7,2024-05-27,0
+TEAM042,Product Development Team 42,Sales,8,2025-07-11,1
+TEAM043,Operations Team 43,Sales,7,2024-09-27,1
+TEAM044,Customer Success Team 44,Customer Success,11,2025-08-03,1
+TEAM045,Operations Team 45,Operations,6,2024-01-08,0
+TEAM046,Infrastructure Team 46,Research,8,2025-03-17,1
+TEAM047,Product Development Team 47,Research,9,2024-02-13,1
+TEAM048,Marketing Team 48,Infrastructure,6,2024-06-06,0
+TEAM049,Analytics Team 49,Customer Success,3,2025-03-01,1
+TEAM050,Customer Success Team 50,Sales,5,2024-09-11,0

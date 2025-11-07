@@ -1,0 +1,301 @@
+employee_id,baseline_burnout_risk,resilience_score,avg_weekly_hours,has_flexible_schedule,remote_work_type,department
+EMP0001,0.449,0.645,57.6,0,Full Office,Sales
+EMP0002,0.54,0.93,52.6,1,Full Remote,Engineering
+EMP0003,0.392,0.835,35.8,0,Full Office,Product
+EMP0004,0.488,0.842,43.7,0,Full Office,Operations
+EMP0005,0.63,0.439,50.9,0,Full Remote,Operations
+EMP0006,0.513,0.665,38.0,0,Full Office,Marketing
+EMP0007,0.218,0.618,38.3,1,Hybrid,Sales
+EMP0008,0.338,0.473,47.4,0,Full Office,Sales
+EMP0009,0.272,0.189,45.7,0,Hybrid,HR
+EMP0010,0.38,0.476,41.6,1,Full Office,Engineering
+EMP0011,0.452,0.516,39.4,0,Hybrid,Engineering
+EMP0012,0.693,0.611,43.7,1,Full Office,Sales
+EMP0013,0.408,0.383,45.5,0,Full Remote,Operations
+EMP0014,0.719,0.48,35.8,0,Full Office,Operations
+EMP0015,0.716,0.606,35.0,1,Full Remote,Engineering
+EMP0016,0.312,0.671,49.4,1,Hybrid,Operations
+EMP0017,0.137,0.558,49.2,1,Full Office,HR
+EMP0018,0.381,0.695,35.3,1,Full Remote,Operations
+EMP0019,0.172,0.675,43.0,0,Full Remote,Finance
+EMP0020,0.191,0.292,45.8,0,Full Office,Product
+EMP0021,0.18,0.512,48.8,1,Full Office,Engineering
+EMP0022,0.259,0.498,45.7,1,Full Remote,Marketing
+EMP0023,0.514,0.608,49.1,1,Full Office,HR
+EMP0024,0.297,0.604,46.4,0,Full Remote,Customer Success
+EMP0025,0.287,0.887,41.2,0,Hybrid,Product
+EMP0026,0.45,0.216,59.7,1,Full Office,Marketing
+EMP0027,0.096,0.56,49.0,1,Full Remote,Operations
+EMP0028,0.446,0.373,58.2,1,Full Remote,Customer Success
+EMP0029,0.617,0.579,35.0,0,Hybrid,Sales
+EMP0030,0.13,0.747,63.8,1,Full Remote,Sales
+EMP0031,0.463,0.558,62.1,1,Hybrid,HR
+EMP0032,0.275,0.618,47.9,1,Full Remote,Sales
+EMP0033,0.366,0.534,40.3,1,Full Office,Customer Success
+EMP0034,0.617,0.511,43.1,0,Full Office,Customer Success
+EMP0035,0.444,0.74,61.7,0,Hybrid,Product
+EMP0036,0.398,0.555,42.5,0,Full Remote,Engineering
+EMP0037,0.575,0.726,46.9,1,Hybrid,Finance
+EMP0038,0.576,0.378,35.0,1,Full Remote,Sales
+EMP0039,0.57,0.558,38.4,1,Full Office,HR
+EMP0040,0.233,0.511,48.8,1,Hybrid,Sales
+EMP0041,0.2,0.284,38.5,0,Hybrid,Product
+EMP0042,0.743,0.574,56.8,1,Full Office,Customer Success
+EMP0043,0.578,0.251,44.1,1,Full Remote,Operations
+EMP0044,0.5,0.472,47.5,1,Full Remote,Sales
+EMP0045,0.226,0.84,47.7,1,Full Office,Engineering
+EMP0046,0.243,0.852,42.8,1,Hybrid,Operations
+EMP0047,0.18,0.913,42.8,1,Full Office,Product
+EMP0048,0.361,0.672,51.4,1,Full Office,Sales
+EMP0049,0.103,0.796,44.5,1,Full Remote,Operations
+EMP0050,0.593,0.791,43.5,1,Hybrid,Sales
+EMP0051,0.246,0.656,40.8,0,Hybrid,HR
+EMP0052,0.348,0.239,37.1,1,Hybrid,Product
+EMP0053,0.46,0.771,39.8,0,Full Office,Finance
+EMP0054,0.147,0.416,53.1,1,Full Remote,Customer Success
+EMP0055,0.394,0.378,39.8,0,Full Remote,Marketing
+EMP0056,0.236,0.687,39.2,1,Full Office,Customer Success
+EMP0057,0.497,0.787,35.0,0,Full Remote,Customer Success
+EMP0058,0.116,0.944,40.2,1,Full Office,Operations
+EMP0059,0.788,0.487,40.2,0,Full Remote,Product
+EMP0060,0.283,0.483,49.3,1,Hybrid,Sales
+EMP0061,0.379,0.859,42.2,1,Full Remote,Marketing
+EMP0062,0.256,0.487,38.0,1,Hybrid,Operations
+EMP0063,0.289,0.55,38.2,1,Full Office,Marketing
+EMP0064,0.242,0.8,52.7,1,Hybrid,Finance
+EMP0065,0.59,0.781,57.0,1,Full Remote,HR
+EMP0066,0.186,0.721,47.0,1,Hybrid,Product
+EMP0067,0.298,0.615,53.8,0,Full Remote,Operations
+EMP0068,0.578,0.946,55.2,1,Full Remote,Customer Success
+EMP0069,0.271,0.64,50.6,1,Full Remote,Engineering
+EMP0070,0.184,0.566,39.6,1,Full Remote,Operations
+EMP0071,0.452,0.683,45.9,1,Hybrid,Engineering
+EMP0072,0.171,0.701,51.7,1,Full Remote,Customer Success
+EMP0073,0.129,0.665,36.0,0,Full Office,HR
+EMP0074,0.566,0.825,58.2,0,Full Remote,Product
+EMP0075,0.198,0.563,53.4,0,Hybrid,Sales
+EMP0076,0.648,0.492,52.8,1,Hybrid,Operations
+EMP0077,0.328,0.386,43.5,1,Full Remote,Customer Success
+EMP0078,0.117,0.507,58.0,1,Full Remote,Operations
+EMP0079,0.782,0.401,39.2,1,Full Remote,Finance
+EMP0080,0.217,0.895,45.8,0,Full Remote,HR
+EMP0081,0.457,0.496,39.4,0,Full Office,Finance
+EMP0082,0.617,0.616,35.0,0,Full Office,Marketing
+EMP0083,0.526,0.648,49.9,1,Hybrid,Product
+EMP0084,0.244,0.698,48.6,1,Full Office,Marketing
+EMP0085,0.33,0.626,41.3,0,Full Remote,Operations
+EMP0086,0.14,0.904,51.9,1,Full Remote,Product
+EMP0087,0.394,0.794,56.3,1,Full Office,HR
+EMP0088,0.295,0.722,35.0,1,Full Remote,HR
+EMP0089,0.138,0.776,48.1,0,Full Office,Customer Success
+EMP0090,0.357,0.668,41.0,1,Full Office,Operations
+EMP0091,0.221,0.655,50.1,1,Hybrid,Marketing
+EMP0092,0.232,0.55,35.0,0,Full Office,Finance
+EMP0093,0.232,0.357,40.8,0,Hybrid,Sales
+EMP0094,0.12,0.672,49.0,1,Hybrid,Engineering
+EMP0095,0.501,0.601,41.9,1,Full Remote,Sales
+EMP0096,0.665,0.865,47.1,1,Full Office,Marketing
+EMP0097,0.253,0.717,46.6,1,Full Remote,Marketing
+EMP0098,0.086,0.744,44.0,1,Hybrid,HR
+EMP0099,0.196,0.504,50.7,1,Hybrid,Sales
+EMP0100,0.471,0.36,43.3,0,Full Remote,HR
+EMP0101,0.114,0.61,50.1,0,Full Remote,HR
+EMP0102,0.409,0.636,38.9,0,Hybrid,Finance
+EMP0103,0.463,0.859,41.4,1,Full Remote,Product
+EMP0104,0.059,0.719,41.8,0,Hybrid,Engineering
+EMP0105,0.466,0.907,37.0,1,Hybrid,Sales
+EMP0106,0.378,0.355,47.9,1,Full Office,Product
+EMP0107,0.57,0.73,58.9,0,Full Remote,Customer Success
+EMP0108,0.52,0.247,44.2,0,Full Office,Sales
+EMP0109,0.356,0.844,41.1,0,Hybrid,Product
+EMP0110,0.075,0.515,49.3,1,Full Office,HR
+EMP0111,0.159,0.667,54.4,1,Hybrid,Marketing
+EMP0112,0.076,0.686,53.9,0,Full Office,Finance
+EMP0113,0.257,0.74,41.6,1,Full Remote,Engineering
+EMP0114,0.354,0.504,42.4,0,Hybrid,Product
+EMP0115,0.225,0.502,47.8,1,Hybrid,Marketing
+EMP0116,0.209,0.43,47.2,1,Full Office,Sales
+EMP0117,0.203,0.397,44.5,1,Full Remote,Product
+EMP0118,0.345,0.298,53.0,1,Hybrid,Operations
+EMP0119,0.354,0.653,50.6,1,Full Office,Marketing
+EMP0120,0.508,0.755,35.0,0,Full Remote,Customer Success
+EMP0121,0.193,0.61,42.4,1,Full Remote,Marketing
+EMP0122,0.364,0.744,43.0,1,Full Remote,Engineering
+EMP0123,0.511,0.751,36.2,1,Hybrid,Customer Success
+EMP0124,0.478,0.645,59.8,0,Hybrid,Finance
+EMP0125,0.397,0.675,41.6,1,Full Office,Engineering
+EMP0126,0.285,0.775,51.0,0,Full Office,Sales
+EMP0127,0.333,0.82,47.5,1,Full Remote,Customer Success
+EMP0128,0.363,0.716,38.8,1,Full Office,Product
+EMP0129,0.289,0.726,45.3,0,Full Office,Operations
+EMP0130,0.18,0.807,35.1,1,Hybrid,Engineering
+EMP0131,0.533,0.682,46.4,0,Hybrid,Operations
+EMP0132,0.106,0.57,35.0,1,Full Office,Sales
+EMP0133,0.51,0.699,50.7,0,Hybrid,Sales
+EMP0134,0.579,0.734,35.0,1,Hybrid,Finance
+EMP0135,0.283,0.659,47.1,1,Hybrid,Sales
+EMP0136,0.559,0.589,46.4,0,Full Office,Marketing
+EMP0137,0.283,0.817,40.1,0,Full Remote,Marketing
+EMP0138,0.289,0.963,47.3,1,Full Remote,Finance
+EMP0139,0.435,0.591,42.3,0,Full Remote,Marketing
+EMP0140,0.39,0.741,35.0,1,Hybrid,Product
+EMP0141,0.66,0.535,51.1,0,Hybrid,HR
+EMP0142,0.309,0.8,37.0,1,Hybrid,Operations
+EMP0143,0.362,0.55,58.7,0,Hybrid,Operations
+EMP0144,0.381,0.861,44.3,1,Hybrid,Product
+EMP0145,0.356,0.719,39.6,1,Full Remote,HR
+EMP0146,0.45,0.368,50.4,0,Full Remote,Customer Success
+EMP0147,0.395,0.579,38.9,0,Full Remote,Finance
+EMP0148,0.518,0.563,56.6,1,Full Office,Finance
+EMP0149,0.635,0.703,35.0,1,Full Office,Sales
+EMP0150,0.329,0.343,51.7,1,Full Office,Operations
+EMP0151,0.198,0.695,39.8,0,Hybrid,Operations
+EMP0152,0.357,0.371,47.6,1,Full Remote,Sales
+EMP0153,0.511,0.322,48.2,0,Hybrid,Customer Success
+EMP0154,0.269,0.638,38.5,1,Full Office,Engineering
+EMP0155,0.184,0.674,55.1,0,Hybrid,Operations
+EMP0156,0.668,0.584,40.0,1,Hybrid,Operations
+EMP0157,0.497,0.572,56.8,0,Hybrid,Engineering
+EMP0158,0.257,0.577,42.2,1,Full Office,Sales
+EMP0159,0.237,0.753,35.0,1,Full Remote,Engineering
+EMP0160,0.526,0.43,46.6,1,Hybrid,Operations
+EMP0161,0.376,0.583,54.8,0,Full Remote,Sales
+EMP0162,0.314,0.683,40.8,0,Full Office,Engineering
+EMP0163,0.698,0.711,49.1,0,Hybrid,Customer Success
+EMP0164,0.598,0.418,45.6,0,Full Remote,Sales
+EMP0165,0.502,0.702,45.5,1,Full Remote,Operations
+EMP0166,0.254,0.486,41.4,1,Hybrid,Product
+EMP0167,0.614,0.652,38.6,0,Full Office,Finance
+EMP0168,0.161,0.522,44.5,1,Hybrid,Operations
+EMP0169,0.234,0.53,35.0,1,Hybrid,Marketing
+EMP0170,0.463,0.466,51.7,1,Full Remote,Finance
+EMP0171,0.337,0.734,48.4,1,Full Remote,Operations
+EMP0172,0.365,0.67,35.5,0,Hybrid,Finance
+EMP0173,0.273,0.624,42.6,1,Full Office,HR
+EMP0174,0.581,0.913,49.4,1,Full Remote,Operations
+EMP0175,0.282,0.362,57.2,1,Hybrid,Sales
+EMP0176,0.355,0.864,41.8,1,Full Remote,Sales
+EMP0177,0.422,0.74,46.4,1,Full Office,HR
+EMP0178,0.145,0.496,46.1,0,Full Office,Customer Success
+EMP0179,0.576,0.528,41.5,1,Full Office,HR
+EMP0180,0.549,0.757,35.0,1,Full Remote,HR
+EMP0181,0.239,0.79,43.6,0,Hybrid,Finance
+EMP0182,0.257,0.577,50.2,1,Hybrid,Engineering
+EMP0183,0.628,0.57,55.5,1,Full Remote,Sales
+EMP0184,0.226,0.66,63.3,0,Full Remote,Engineering
+EMP0185,0.451,0.826,44.3,0,Full Remote,HR
+EMP0186,0.334,0.802,48.0,0,Full Remote,Customer Success
+EMP0187,0.373,0.551,39.3,1,Hybrid,Sales
+EMP0188,0.119,0.752,40.1,0,Hybrid,Operations
+EMP0189,0.125,0.611,46.3,1,Hybrid,Operations
+EMP0190,0.403,0.702,39.0,0,Hybrid,Operations
+EMP0191,0.596,0.792,52.8,1,Hybrid,Finance
+EMP0192,0.541,0.425,48.9,1,Hybrid,Marketing
+EMP0193,0.697,0.594,36.2,1,Hybrid,HR
+EMP0194,0.328,0.641,39.3,1,Hybrid,Marketing
+EMP0195,0.242,0.478,49.4,0,Full Remote,Product
+EMP0196,0.5,0.854,42.2,0,Full Office,Finance
+EMP0197,0.5,0.561,35.4,1,Hybrid,Operations
+EMP0198,0.409,0.878,38.1,1,Hybrid,Sales
+EMP0199,0.196,0.454,60.7,0,Hybrid,Finance
+EMP0200,0.425,0.439,42.1,1,Full Remote,Sales
+EMP0201,0.363,0.869,55.1,0,Full Office,Engineering
+EMP0202,0.728,0.783,54.3,1,Full Remote,Engineering
+EMP0203,0.279,0.69,38.8,0,Hybrid,Sales
+EMP0204,0.531,0.639,51.9,1,Full Office,Operations
+EMP0205,0.236,0.659,44.8,0,Hybrid,Marketing
+EMP0206,0.256,0.569,49.9,0,Hybrid,HR
+EMP0207,0.358,0.553,51.6,0,Hybrid,Finance
+EMP0208,0.328,0.759,47.7,1,Hybrid,Finance
+EMP0209,0.464,0.829,53.5,0,Full Office,Operations
+EMP0210,0.855,0.722,45.1,1,Full Remote,HR
+EMP0211,0.584,0.601,47.1,1,Full Office,Engineering
+EMP0212,0.398,0.742,38.5,1,Full Office,Marketing
+EMP0213,0.355,0.543,45.0,1,Hybrid,HR
+EMP0214,0.627,0.298,42.4,0,Hybrid,Engineering
+EMP0215,0.513,0.326,38.0,1,Hybrid,HR
+EMP0216,0.493,0.859,46.0,0,Hybrid,Product
+EMP0217,0.449,0.743,45.2,1,Hybrid,Finance
+EMP0218,0.426,0.794,46.5,0,Full Remote,Product
+EMP0219,0.242,0.647,46.4,1,Hybrid,HR
+EMP0220,0.444,0.4,44.1,0,Full Office,Finance
+EMP0221,0.343,0.578,55.3,1,Full Remote,Marketing
+EMP0222,0.607,0.7,43.1,1,Full Office,Operations
+EMP0223,0.303,0.792,46.5,1,Full Remote,Product
+EMP0224,0.554,0.584,48.6,0,Full Office,Operations
+EMP0225,0.625,0.658,39.7,0,Full Office,Engineering
+EMP0226,0.311,0.802,56.1,0,Hybrid,Engineering
+EMP0227,0.558,0.809,49.8,1,Full Office,Customer Success
+EMP0228,0.445,0.491,35.0,1,Full Office,Engineering
+EMP0229,0.325,0.927,52.1,0,Full Remote,Engineering
+EMP0230,0.155,0.685,35.0,1,Hybrid,Finance
+EMP0231,0.713,0.497,52.4,1,Hybrid,Marketing
+EMP0232,0.591,0.531,45.1,1,Full Office,Engineering
+EMP0233,0.337,0.798,47.6,0,Full Remote,Sales
+EMP0234,0.549,0.349,51.6,1,Hybrid,Marketing
+EMP0235,0.643,0.743,40.2,1,Hybrid,Sales
+EMP0236,0.37,0.599,45.8,0,Hybrid,Sales
+EMP0237,0.628,0.742,52.1,1,Full Office,Operations
+EMP0238,0.411,0.497,53.5,1,Full Office,HR
+EMP0239,0.627,0.637,44.4,0,Full Office,Sales
+EMP0240,0.31,0.483,59.6,1,Full Remote,Operations
+EMP0241,0.663,0.792,38.1,1,Hybrid,Engineering
+EMP0242,0.21,0.733,55.0,0,Full Office,Sales
+EMP0243,0.196,0.435,40.6,1,Hybrid,HR
+EMP0244,0.165,0.682,35.0,1,Full Remote,Customer Success
+EMP0245,0.289,0.891,39.8,1,Full Remote,Product
+EMP0246,0.654,0.601,57.0,0,Full Remote,Operations
+EMP0247,0.442,0.68,37.7,1,Full Office,Customer Success
+EMP0248,0.306,0.318,42.4,1,Hybrid,Operations
+EMP0249,0.117,0.515,43.6,1,Full Office,Product
+EMP0250,0.176,0.65,51.5,0,Full Remote,HR
+EMP0251,0.302,0.565,39.3,1,Hybrid,Marketing
+EMP0252,0.372,0.427,46.2,0,Hybrid,Product
+EMP0253,0.47,0.788,50.8,1,Hybrid,Finance
+EMP0254,0.604,0.666,41.2,0,Hybrid,Customer Success
+EMP0255,0.13,0.632,56.5,0,Full Remote,Sales
+EMP0256,0.569,0.506,45.8,1,Hybrid,Engineering
+EMP0257,0.118,0.707,47.6,1,Full Office,Finance
+EMP0258,0.774,0.567,41.9,1,Full Remote,Sales
+EMP0259,0.509,0.391,52.3,0,Full Remote,Sales
+EMP0260,0.283,0.849,43.8,0,Full Remote,Operations
+EMP0261,0.2,0.605,48.1,0,Hybrid,Product
+EMP0262,0.53,0.785,48.5,0,Hybrid,Marketing
+EMP0263,0.247,0.185,36.1,1,Full Remote,Customer Success
+EMP0264,0.515,0.38,47.7,1,Hybrid,Sales
+EMP0265,0.219,0.465,35.0,0,Hybrid,Operations
+EMP0266,0.412,0.615,43.5,1,Full Office,Customer Success
+EMP0267,0.222,0.41,50.3,0,Full Office,Product
+EMP0268,0.502,0.485,39.2,0,Full Office,Marketing
+EMP0269,0.415,0.642,52.5,0,Hybrid,Finance
+EMP0270,0.163,0.655,35.0,0,Hybrid,Product
+EMP0271,0.317,0.853,52.1,1,Hybrid,Engineering
+EMP0272,0.308,0.354,50.7,0,Full Remote,Product
+EMP0273,0.594,0.325,35.0,1,Hybrid,Sales
+EMP0274,0.491,0.491,54.3,1,Full Office,Marketing
+EMP0275,0.356,0.561,56.5,1,Full Remote,Product
+EMP0276,0.471,0.496,58.1,1,Full Office,Sales
+EMP0277,0.682,0.727,35.0,1,Full Office,Sales
+EMP0278,0.453,0.723,49.5,0,Hybrid,Marketing
+EMP0279,0.251,0.611,58.5,1,Hybrid,Product
+EMP0280,0.441,0.518,37.2,1,Full Remote,Product
+EMP0281,0.673,0.682,43.8,1,Full Remote,Operations
+EMP0282,0.461,0.725,37.8,1,Full Office,Customer Success
+EMP0283,0.47,0.778,43.4,1,Full Office,Operations
+EMP0284,0.286,0.443,35.0,1,Hybrid,Product
+EMP0285,0.349,0.665,46.5,1,Full Remote,Finance
+EMP0286,0.529,0.401,46.9,1,Full Remote,Product
+EMP0287,0.223,0.286,40.6,1,Hybrid,Engineering
+EMP0288,0.285,0.476,35.5,1,Full Office,Sales
+EMP0289,0.196,0.86,37.6,1,Full Remote,HR
+EMP0290,0.56,0.389,37.9,1,Full Remote,Product
+EMP0291,0.493,0.744,46.8,1,Hybrid,Engineering
+EMP0292,0.482,0.811,42.1,0,Full Remote,Engineering
+EMP0293,0.381,0.94,40.3,1,Full Office,Customer Success
+EMP0294,0.347,0.794,60.5,1,Full Office,Marketing
+EMP0295,0.2,0.656,35.0,1,Hybrid,Product
+EMP0296,0.271,0.77,35.0,0,Full Office,Marketing
+EMP0297,0.512,0.764,55.1,0,Full Office,Finance
+EMP0298,0.608,0.587,57.3,0,Hybrid,HR
+EMP0299,0.373,0.459,52.9,1,Full Office,Engineering
+EMP0300,0.354,0.601,36.3,0,Hybrid,Sales

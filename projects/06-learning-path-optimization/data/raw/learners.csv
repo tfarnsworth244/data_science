@@ -1,0 +1,1501 @@
+learner_id,age,primary_interest,learning_style,time_available_weekly,learning_goal,experience_level,joined_date
+LRN00001,35,Programming,Theoretical,2.6,Promotion,Advanced,2023-12-30
+LRN00002,26,Cloud,Theoretical,2.0,Career Switch,Beginner,2023-11-20
+LRN00003,26,Business,Hands-on,10.3,Skill Enhancement,Beginner,2025-09-13
+LRN00004,25,Programming,Hands-on,3.7,Certification,Advanced,2025-07-26
+LRN00005,18,Design,Mixed,8.7,Promotion,Beginner,2024-09-10
+LRN00006,21,Design,Mixed,1.8,Skill Enhancement,Beginner,2023-12-07
+LRN00007,29,Programming,Visual,2.7,Certification,Beginner,2025-04-11
+LRN00008,27,Cloud,Mixed,10.3,Career Switch,Advanced,2025-01-26
+LRN00009,26,Programming,Mixed,2.3,Skill Enhancement,Intermediate,2023-11-25
+LRN00010,27,Cloud,Theoretical,4.8,Certification,Advanced,2024-05-10
+LRN00011,41,Design,Mixed,3.0,Skill Enhancement,Advanced,2024-06-09
+LRN00012,18,Design,Theoretical,3.4,Skill Enhancement,Advanced,2024-12-29
+LRN00013,36,Cloud,Mixed,1.6,Skill Enhancement,Intermediate,2024-07-15
+LRN00014,24,Programming,Theoretical,15.9,Skill Enhancement,Intermediate,2024-10-30
+LRN00015,23,Business,Visual,6.3,Skill Enhancement,Beginner,2025-02-14
+LRN00016,34,Design,Hands-on,5.4,Skill Enhancement,Beginner,2024-08-10
+LRN00017,21,Design,Theoretical,5.6,Promotion,Intermediate,2024-08-09
+LRN00018,41,Programming,Hands-on,4.2,Certification,Intermediate,2024-02-18
+LRN00019,29,Programming,Mixed,3.1,Certification,Beginner,2024-10-13
+LRN00020,38,Business,Mixed,10.3,Certification,Advanced,2024-03-28
+LRN00021,22,Cloud,Hands-on,4.0,Certification,Beginner,2025-01-02
+LRN00022,24,Design,Mixed,10.2,Career Switch,Intermediate,2024-10-29
+LRN00023,33,Design,Hands-on,7.6,Certification,Beginner,2024-01-10
+LRN00024,38,Cloud,Visual,4.3,Certification,Advanced,2024-03-10
+LRN00025,25,Programming,Visual,7.7,Certification,Beginner,2024-06-23
+LRN00026,37,Data Science,Visual,3.5,Personal Interest,Intermediate,2024-11-07
+LRN00027,35,Data Science,Mixed,11.6,Personal Interest,Intermediate,2024-09-15
+LRN00028,42,Business,Mixed,7.3,Personal Interest,Beginner,2024-06-14
+LRN00029,36,Programming,Visual,7.4,Personal Interest,Beginner,2023-12-13
+LRN00030,26,Programming,Visual,2.6,Career Switch,Beginner,2025-03-18
+LRN00031,18,Programming,Hands-on,7.5,Skill Enhancement,Beginner,2024-06-11
+LRN00032,29,Programming,Hands-on,4.6,Certification,Advanced,2025-01-19
+LRN00033,25,Business,Hands-on,2.0,Promotion,Advanced,2025-06-13
+LRN00034,35,Data Science,Theoretical,4.8,Career Switch,Advanced,2025-09-12
+LRN00035,30,Business,Mixed,10.4,Certification,Advanced,2025-03-19
+LRN00036,26,Programming,Hands-on,7.8,Career Switch,Advanced,2024-12-04
+LRN00037,37,Cloud,Visual,6.5,Promotion,Beginner,2024-10-18
+LRN00038,28,Cloud,Mixed,6.7,Personal Interest,Beginner,2024-05-08
+LRN00039,22,Business,Visual,5.4,Certification,Intermediate,2025-06-22
+LRN00040,18,Design,Theoretical,6.4,Certification,Advanced,2025-05-05
+LRN00041,41,Design,Hands-on,1.2,Promotion,Advanced,2025-01-05
+LRN00042,28,Cloud,Mixed,8.2,Certification,Intermediate,2024-02-10
+LRN00043,31,Business,Theoretical,3.5,Skill Enhancement,Beginner,2024-12-27
+LRN00044,31,Design,Hands-on,4.7,Certification,Advanced,2024-01-23
+LRN00045,21,Design,Theoretical,6.2,Career Switch,Intermediate,2024-11-10
+LRN00046,18,Data Science,Mixed,2.3,Skill Enhancement,Intermediate,2025-01-17
+LRN00047,31,Business,Theoretical,6.3,Promotion,Advanced,2024-12-30
+LRN00048,39,Cloud,Visual,3.2,Promotion,Beginner,2025-07-13
+LRN00049,33,Data Science,Mixed,1.9,Certification,Advanced,2025-02-04
+LRN00050,19,Design,Mixed,8.1,Certification,Beginner,2025-07-05
+LRN00051,25,Business,Hands-on,3.1,Certification,Advanced,2025-02-01
+LRN00052,18,Business,Theoretical,6.1,Certification,Advanced,2024-04-13
+LRN00053,35,Business,Mixed,12.9,Promotion,Intermediate,2024-10-13
+LRN00054,21,Design,Theoretical,1.7,Personal Interest,Intermediate,2025-02-14
+LRN00055,38,Programming,Hands-on,5.9,Personal Interest,Beginner,2024-04-08
+LRN00056,21,Data Science,Hands-on,3.7,Skill Enhancement,Advanced,2024-05-31
+LRN00057,29,Business,Theoretical,14.0,Career Switch,Beginner,2024-12-09
+LRN00058,43,Data Science,Theoretical,9.4,Skill Enhancement,Intermediate,2025-09-24
+LRN00059,32,Cloud,Hands-on,5.3,Personal Interest,Beginner,2025-08-14
+LRN00060,38,Cloud,Theoretical,4.8,Skill Enhancement,Advanced,2024-05-24
+LRN00061,24,Programming,Visual,9.1,Promotion,Intermediate,2024-06-15
+LRN00062,33,Design,Mixed,2.4,Personal Interest,Beginner,2025-08-17
+LRN00063,26,Business,Mixed,3.0,Career Switch,Beginner,2024-08-24
+LRN00064,26,Design,Visual,7.7,Promotion,Advanced,2025-08-15
+LRN00065,19,Data Science,Hands-on,14.0,Promotion,Intermediate,2025-07-13
+LRN00066,25,Data Science,Visual,6.2,Promotion,Intermediate,2024-01-27
+LRN00067,25,Cloud,Hands-on,9.7,Promotion,Intermediate,2024-07-04
+LRN00068,18,Design,Theoretical,6.6,Promotion,Intermediate,2024-11-30
+LRN00069,29,Cloud,Visual,1.4,Promotion,Advanced,2025-06-29
+LRN00070,36,Data Science,Hands-on,4.7,Personal Interest,Advanced,2025-07-17
+LRN00071,32,Data Science,Hands-on,3.8,Skill Enhancement,Advanced,2025-07-24
+LRN00072,19,Data Science,Visual,5.2,Certification,Intermediate,2024-02-08
+LRN00073,27,Design,Theoretical,13.5,Career Switch,Beginner,2024-12-17
+LRN00074,35,Business,Mixed,8.3,Career Switch,Advanced,2025-02-11
+LRN00075,20,Business,Hands-on,6.4,Certification,Beginner,2024-03-30
+LRN00076,30,Data Science,Hands-on,5.7,Personal Interest,Beginner,2025-07-27
+LRN00077,27,Programming,Hands-on,4.7,Personal Interest,Advanced,2024-03-05
+LRN00078,30,Business,Mixed,4.6,Career Switch,Intermediate,2024-12-01
+LRN00079,35,Design,Theoretical,3.1,Promotion,Advanced,2024-05-21
+LRN00080,23,Design,Visual,5.3,Promotion,Beginner,2024-07-23
+LRN00081,18,Business,Theoretical,8.8,Career Switch,Beginner,2025-02-16
+LRN00082,29,Cloud,Visual,5.6,Personal Interest,Advanced,2025-08-28
+LRN00083,18,Data Science,Mixed,3.8,Promotion,Advanced,2024-07-13
+LRN00084,19,Business,Hands-on,7.4,Promotion,Intermediate,2023-12-28
+LRN00085,31,Design,Visual,5.2,Certification,Intermediate,2024-08-16
+LRN00086,21,Business,Theoretical,4.4,Career Switch,Beginner,2024-11-05
+LRN00087,22,Design,Mixed,3.1,Personal Interest,Advanced,2024-08-24
+LRN00088,36,Cloud,Visual,19.6,Certification,Beginner,2024-11-20
+LRN00089,31,Business,Theoretical,7.9,Career Switch,Intermediate,2024-04-30
+LRN00090,31,Programming,Mixed,13.7,Certification,Beginner,2025-03-30
+LRN00091,19,Cloud,Theoretical,1.0,Promotion,Intermediate,2024-01-07
+LRN00092,24,Design,Visual,15.0,Skill Enhancement,Intermediate,2024-03-25
+LRN00093,32,Data Science,Theoretical,15.3,Certification,Advanced,2024-05-30
+LRN00094,39,Programming,Visual,5.5,Promotion,Beginner,2025-04-29
+LRN00095,22,Business,Visual,3.1,Promotion,Intermediate,2025-07-05
+LRN00096,37,Data Science,Visual,3.2,Certification,Beginner,2023-12-15
+LRN00097,30,Data Science,Mixed,4.6,Personal Interest,Advanced,2025-01-02
+LRN00098,25,Design,Mixed,7.2,Certification,Beginner,2024-06-28
+LRN00099,35,Cloud,Hands-on,5.1,Certification,Beginner,2024-02-03
+LRN00100,20,Cloud,Hands-on,5.3,Career Switch,Intermediate,2024-08-10
+LRN00101,24,Business,Theoretical,10.0,Career Switch,Intermediate,2024-12-07
+LRN00102,18,Cloud,Mixed,6.0,Skill Enhancement,Intermediate,2024-04-05
+LRN00103,42,Design,Theoretical,9.7,Personal Interest,Advanced,2024-03-31
+LRN00104,34,Design,Mixed,4.7,Personal Interest,Beginner,2025-02-06
+LRN00105,31,Cloud,Mixed,3.0,Skill Enhancement,Intermediate,2025-08-25
+LRN00106,34,Business,Mixed,4.1,Certification,Intermediate,2023-11-29
+LRN00107,25,Data Science,Mixed,4.1,Career Switch,Beginner,2024-05-12
+LRN00108,30,Cloud,Theoretical,8.2,Career Switch,Intermediate,2025-06-28
+LRN00109,44,Cloud,Mixed,2.6,Career Switch,Advanced,2025-05-14
+LRN00110,29,Design,Hands-on,6.2,Career Switch,Intermediate,2025-01-10
+LRN00111,27,Business,Mixed,7.0,Career Switch,Intermediate,2023-11-18
+LRN00112,37,Cloud,Mixed,11.5,Personal Interest,Advanced,2024-05-27
+LRN00113,26,Cloud,Visual,9.2,Promotion,Beginner,2025-02-10
+LRN00114,28,Business,Hands-on,4.5,Career Switch,Intermediate,2025-06-30
+LRN00115,32,Programming,Mixed,6.5,Skill Enhancement,Advanced,2024-12-06
+LRN00116,21,Programming,Visual,7.5,Personal Interest,Beginner,2024-12-12
+LRN00117,29,Business,Theoretical,10.9,Certification,Beginner,2025-01-31
+LRN00118,25,Cloud,Mixed,1.2,Promotion,Advanced,2025-04-07
+LRN00119,18,Data Science,Hands-on,3.6,Career Switch,Advanced,2024-09-12
+LRN00120,24,Cloud,Hands-on,9.3,Certification,Advanced,2025-05-15
+LRN00121,34,Data Science,Mixed,7.3,Personal Interest,Intermediate,2025-01-20
+LRN00122,23,Programming,Mixed,4.1,Personal Interest,Advanced,2024-03-28
+LRN00123,40,Data Science,Visual,4.3,Certification,Intermediate,2024-02-15
+LRN00124,18,Business,Mixed,10.5,Personal Interest,Intermediate,2024-12-03
+LRN00125,31,Data Science,Mixed,5.3,Certification,Beginner,2025-02-08
+LRN00126,30,Design,Theoretical,3.1,Promotion,Intermediate,2024-12-10
+LRN00127,24,Programming,Mixed,6.0,Personal Interest,Beginner,2024-03-08
+LRN00128,24,Programming,Mixed,7.2,Personal Interest,Beginner,2024-01-26
+LRN00129,34,Business,Hands-on,2.0,Skill Enhancement,Advanced,2025-01-25
+LRN00130,18,Data Science,Visual,5.8,Career Switch,Intermediate,2024-07-14
+LRN00131,32,Programming,Theoretical,5.9,Skill Enhancement,Beginner,2024-12-10
+LRN00132,33,Business,Mixed,7.8,Skill Enhancement,Beginner,2025-05-26
+LRN00133,31,Cloud,Theoretical,4.6,Promotion,Advanced,2025-01-02
+LRN00134,20,Data Science,Theoretical,5.8,Certification,Intermediate,2024-10-27
+LRN00135,36,Programming,Mixed,4.9,Career Switch,Beginner,2025-02-19
+LRN00136,30,Design,Theoretical,5.1,Career Switch,Intermediate,2025-09-24
+LRN00137,23,Business,Visual,5.0,Certification,Intermediate,2023-11-20
+LRN00138,26,Business,Mixed,6.8,Personal Interest,Beginner,2023-11-17
+LRN00139,32,Data Science,Mixed,4.5,Career Switch,Advanced,2024-03-13
+LRN00140,35,Business,Hands-on,3.8,Career Switch,Advanced,2024-06-20
+LRN00141,30,Business,Mixed,13.9,Career Switch,Beginner,2025-08-23
+LRN00142,18,Programming,Theoretical,4.4,Certification,Beginner,2025-07-01
+LRN00143,19,Data Science,Hands-on,2.6,Certification,Intermediate,2024-09-24
+LRN00144,31,Cloud,Mixed,8.8,Promotion,Advanced,2025-05-03
+LRN00145,27,Design,Visual,4.8,Certification,Advanced,2024-08-17
+LRN00146,28,Business,Visual,3.9,Personal Interest,Beginner,2024-07-11
+LRN00147,28,Design,Hands-on,10.1,Personal Interest,Beginner,2024-09-27
+LRN00148,30,Cloud,Theoretical,10.1,Career Switch,Intermediate,2024-12-30
+LRN00149,35,Data Science,Visual,7.1,Certification,Beginner,2023-11-30
+LRN00150,33,Data Science,Visual,19.8,Career Switch,Intermediate,2025-02-01
+LRN00151,22,Data Science,Hands-on,1.3,Career Switch,Advanced,2025-03-10
+LRN00152,35,Cloud,Hands-on,6.1,Skill Enhancement,Intermediate,2025-05-10
+LRN00153,40,Cloud,Visual,10.9,Personal Interest,Beginner,2025-05-28
+LRN00154,19,Cloud,Theoretical,8.3,Skill Enhancement,Beginner,2023-12-02
+LRN00155,26,Programming,Hands-on,3.0,Career Switch,Intermediate,2025-02-07
+LRN00156,31,Cloud,Theoretical,5.8,Career Switch,Beginner,2025-01-10
+LRN00157,28,Programming,Hands-on,13.0,Certification,Advanced,2025-06-14
+LRN00158,27,Programming,Mixed,4.8,Certification,Intermediate,2024-05-01
+LRN00159,23,Cloud,Visual,5.2,Certification,Advanced,2025-02-24
+LRN00160,26,Cloud,Visual,1.0,Promotion,Intermediate,2024-06-26
+LRN00161,18,Programming,Visual,8.2,Certification,Intermediate,2024-07-29
+LRN00162,26,Programming,Mixed,5.4,Certification,Beginner,2025-07-18
+LRN00163,25,Business,Hands-on,3.2,Career Switch,Beginner,2024-12-31
+LRN00164,31,Cloud,Theoretical,20.1,Certification,Advanced,2024-04-13
+LRN00165,26,Business,Mixed,7.8,Promotion,Advanced,2024-07-25
+LRN00166,20,Programming,Visual,6.3,Promotion,Advanced,2025-03-02
+LRN00167,36,Design,Mixed,5.4,Skill Enhancement,Intermediate,2024-10-26
+LRN00168,24,Design,Mixed,3.5,Certification,Advanced,2025-07-03
+LRN00169,18,Business,Mixed,1.7,Personal Interest,Advanced,2025-01-20
+LRN00170,34,Business,Hands-on,12.1,Certification,Beginner,2025-07-07
+LRN00171,24,Programming,Visual,5.8,Certification,Beginner,2024-09-22
+LRN00172,29,Data Science,Visual,3.6,Promotion,Advanced,2024-03-12
+LRN00173,25,Business,Visual,2.9,Certification,Intermediate,2023-11-27
+LRN00174,20,Design,Visual,4.4,Personal Interest,Advanced,2024-11-23
+LRN00175,26,Business,Visual,5.6,Promotion,Advanced,2025-03-05
+LRN00176,32,Data Science,Mixed,4.8,Skill Enhancement,Beginner,2024-10-15
+LRN00177,19,Cloud,Theoretical,11.4,Career Switch,Intermediate,2024-02-29
+LRN00178,29,Data Science,Mixed,8.2,Promotion,Advanced,2024-01-19
+LRN00179,23,Cloud,Visual,6.6,Promotion,Advanced,2025-01-08
+LRN00180,28,Programming,Hands-on,3.3,Personal Interest,Advanced,2024-11-26
+LRN00181,27,Business,Theoretical,4.7,Career Switch,Beginner,2025-05-15
+LRN00182,49,Cloud,Mixed,3.9,Career Switch,Beginner,2023-12-30
+LRN00183,29,Programming,Visual,2.6,Promotion,Beginner,2024-09-18
+LRN00184,34,Design,Mixed,10.7,Personal Interest,Beginner,2024-09-25
+LRN00185,22,Business,Theoretical,13.5,Promotion,Advanced,2025-07-14
+LRN00186,20,Programming,Hands-on,2.5,Skill Enhancement,Advanced,2025-08-19
+LRN00187,39,Programming,Theoretical,4.6,Certification,Advanced,2024-07-31
+LRN00188,18,Design,Mixed,3.4,Certification,Intermediate,2025-03-02
+LRN00189,38,Cloud,Visual,1.5,Personal Interest,Intermediate,2025-06-17
+LRN00190,20,Business,Mixed,11.8,Promotion,Advanced,2024-11-27
+LRN00191,19,Programming,Hands-on,4.7,Certification,Advanced,2025-08-13
+LRN00192,20,Programming,Hands-on,4.0,Personal Interest,Beginner,2025-05-21
+LRN00193,38,Business,Theoretical,11.3,Personal Interest,Beginner,2025-10-01
+LRN00194,26,Design,Mixed,3.3,Skill Enhancement,Beginner,2024-09-14
+LRN00195,35,Cloud,Hands-on,12.5,Promotion,Advanced,2023-11-24
+LRN00196,43,Business,Visual,4.0,Certification,Advanced,2025-08-26
+LRN00197,24,Design,Visual,5.3,Certification,Beginner,2024-11-22
+LRN00198,27,Cloud,Mixed,6.8,Promotion,Intermediate,2023-12-23
+LRN00199,27,Design,Theoretical,4.2,Career Switch,Intermediate,2025-09-17
+LRN00200,18,Business,Hands-on,4.3,Promotion,Intermediate,2024-10-03
+LRN00201,33,Programming,Mixed,4.3,Career Switch,Beginner,2024-07-19
+LRN00202,18,Cloud,Mixed,1.8,Promotion,Beginner,2024-08-29
+LRN00203,18,Business,Theoretical,5.8,Skill Enhancement,Intermediate,2025-04-19
+LRN00204,40,Programming,Visual,6.2,Promotion,Advanced,2025-03-24
+LRN00205,18,Business,Theoretical,3.8,Skill Enhancement,Beginner,2025-06-25
+LRN00206,18,Data Science,Theoretical,3.0,Skill Enhancement,Beginner,2024-01-31
+LRN00207,18,Data Science,Visual,8.2,Skill Enhancement,Advanced,2024-05-21
+LRN00208,26,Design,Mixed,2.5,Promotion,Advanced,2023-12-28
+LRN00209,18,Cloud,Theoretical,4.5,Personal Interest,Beginner,2024-07-15
+LRN00210,30,Programming,Mixed,8.8,Certification,Advanced,2024-12-02
+LRN00211,18,Business,Visual,7.1,Personal Interest,Advanced,2025-07-25
+LRN00212,27,Business,Mixed,3.7,Certification,Beginner,2025-08-11
+LRN00213,30,Business,Theoretical,7.0,Career Switch,Advanced,2025-07-08
+LRN00214,25,Cloud,Mixed,6.3,Certification,Advanced,2024-03-20
+LRN00215,32,Programming,Mixed,4.2,Promotion,Advanced,2025-03-30
+LRN00216,27,Business,Mixed,2.3,Promotion,Beginner,2025-08-06
+LRN00217,37,Design,Visual,5.2,Personal Interest,Advanced,2025-07-14
+LRN00218,18,Cloud,Hands-on,3.0,Career Switch,Beginner,2024-07-17
+LRN00219,23,Design,Hands-on,11.2,Personal Interest,Intermediate,2024-12-23
+LRN00220,49,Design,Mixed,4.5,Personal Interest,Advanced,2024-02-04
+LRN00221,27,Programming,Theoretical,6.3,Career Switch,Intermediate,2025-07-04
+LRN00222,31,Cloud,Mixed,11.8,Personal Interest,Intermediate,2023-12-06
+LRN00223,26,Cloud,Hands-on,4.9,Personal Interest,Beginner,2024-02-20
+LRN00224,37,Data Science,Theoretical,4.7,Personal Interest,Advanced,2023-11-30
+LRN00225,32,Design,Hands-on,14.6,Promotion,Advanced,2025-07-14
+LRN00226,26,Business,Mixed,3.2,Personal Interest,Beginner,2023-11-22
+LRN00227,31,Cloud,Visual,10.0,Certification,Advanced,2024-10-03
+LRN00228,23,Programming,Theoretical,9.1,Personal Interest,Beginner,2025-03-03
+LRN00229,32,Business,Mixed,7.2,Skill Enhancement,Beginner,2025-05-21
+LRN00230,33,Data Science,Visual,8.4,Personal Interest,Beginner,2024-05-07
+LRN00231,34,Cloud,Visual,7.5,Personal Interest,Advanced,2025-05-27
+LRN00232,31,Cloud,Mixed,5.2,Skill Enhancement,Beginner,2025-04-06
+LRN00233,20,Cloud,Hands-on,1.6,Certification,Beginner,2024-08-14
+LRN00234,18,Business,Hands-on,3.1,Certification,Advanced,2024-12-21
+LRN00235,25,Design,Hands-on,5.4,Promotion,Beginner,2024-11-26
+LRN00236,32,Design,Hands-on,5.3,Personal Interest,Advanced,2024-03-03
+LRN00237,21,Design,Mixed,4.8,Personal Interest,Intermediate,2024-05-12
+LRN00238,28,Cloud,Mixed,1.6,Skill Enhancement,Beginner,2024-01-28
+LRN00239,21,Data Science,Theoretical,8.7,Career Switch,Advanced,2024-06-03
+LRN00240,22,Business,Visual,8.5,Promotion,Beginner,2024-12-21
+LRN00241,26,Programming,Hands-on,1.7,Personal Interest,Intermediate,2024-05-01
+LRN00242,26,Data Science,Mixed,5.5,Career Switch,Beginner,2024-07-04
+LRN00243,30,Business,Visual,3.0,Certification,Beginner,2024-08-29
+LRN00244,30,Cloud,Theoretical,6.0,Skill Enhancement,Intermediate,2025-07-17
+LRN00245,29,Business,Hands-on,3.9,Career Switch,Intermediate,2025-06-29
+LRN00246,34,Business,Hands-on,7.4,Skill Enhancement,Beginner,2024-12-19
+LRN00247,36,Design,Hands-on,20.4,Certification,Intermediate,2024-01-17
+LRN00248,22,Programming,Visual,8.8,Career Switch,Intermediate,2025-03-02
+LRN00249,22,Data Science,Mixed,4.1,Career Switch,Intermediate,2025-02-07
+LRN00250,22,Business,Visual,5.4,Career Switch,Beginner,2024-08-05
+LRN00251,25,Cloud,Mixed,5.9,Career Switch,Beginner,2024-05-15
+LRN00252,21,Cloud,Visual,9.9,Promotion,Advanced,2025-02-03
+LRN00253,18,Data Science,Theoretical,3.1,Certification,Beginner,2024-01-18
+LRN00254,36,Business,Hands-on,3.4,Promotion,Intermediate,2025-03-31
+LRN00255,34,Programming,Theoretical,4.9,Career Switch,Advanced,2024-03-30
+LRN00256,27,Cloud,Visual,14.8,Certification,Intermediate,2025-08-25
+LRN00257,39,Design,Theoretical,9.0,Personal Interest,Advanced,2025-09-22
+LRN00258,32,Business,Visual,3.1,Personal Interest,Beginner,2023-12-06
+LRN00259,28,Programming,Theoretical,6.0,Skill Enhancement,Beginner,2024-10-13
+LRN00260,29,Cloud,Theoretical,4.5,Skill Enhancement,Advanced,2024-06-20
+LRN00261,26,Design,Hands-on,4.0,Skill Enhancement,Beginner,2024-06-27
+LRN00262,18,Programming,Theoretical,5.4,Skill Enhancement,Beginner,2025-03-18
+LRN00263,23,Programming,Theoretical,2.3,Personal Interest,Advanced,2024-08-27
+LRN00264,37,Cloud,Mixed,4.4,Personal Interest,Beginner,2023-12-16
+LRN00265,32,Data Science,Theoretical,2.4,Personal Interest,Beginner,2023-12-07
+LRN00266,25,Business,Theoretical,6.6,Career Switch,Intermediate,2024-07-18
+LRN00267,18,Design,Mixed,8.5,Certification,Intermediate,2025-03-31
+LRN00268,38,Design,Mixed,8.4,Personal Interest,Advanced,2025-01-08
+LRN00269,18,Programming,Mixed,12.7,Career Switch,Intermediate,2024-01-31
+LRN00270,29,Data Science,Theoretical,4.9,Personal Interest,Beginner,2025-07-19
+LRN00271,23,Business,Theoretical,4.8,Personal Interest,Intermediate,2024-01-30
+LRN00272,18,Design,Hands-on,5.7,Certification,Intermediate,2024-07-08
+LRN00273,26,Programming,Theoretical,2.7,Promotion,Intermediate,2024-12-31
+LRN00274,34,Programming,Visual,1.0,Certification,Intermediate,2024-05-01
+LRN00275,27,Data Science,Visual,4.5,Skill Enhancement,Advanced,2023-11-14
+LRN00276,44,Design,Visual,6.1,Skill Enhancement,Beginner,2025-02-09
+LRN00277,33,Business,Theoretical,8.0,Certification,Advanced,2025-09-05
+LRN00278,26,Cloud,Hands-on,6.0,Certification,Intermediate,2024-09-23
+LRN00279,28,Design,Visual,12.2,Promotion,Beginner,2024-04-14
+LRN00280,35,Business,Mixed,2.0,Personal Interest,Advanced,2024-12-27
+LRN00281,29,Data Science,Visual,6.2,Career Switch,Advanced,2025-04-01
+LRN00282,18,Design,Mixed,2.8,Promotion,Beginner,2025-01-13
+LRN00283,27,Business,Mixed,1.6,Skill Enhancement,Advanced,2024-12-20
+LRN00284,22,Design,Hands-on,5.2,Career Switch,Beginner,2025-07-25
+LRN00285,28,Design,Hands-on,6.1,Certification,Beginner,2023-11-10
+LRN00286,26,Business,Theoretical,3.5,Career Switch,Advanced,2024-04-01
+LRN00287,24,Business,Theoretical,4.4,Skill Enhancement,Advanced,2023-12-25
+LRN00288,31,Data Science,Theoretical,11.4,Promotion,Beginner,2025-06-06
+LRN00289,31,Data Science,Hands-on,10.0,Skill Enhancement,Intermediate,2025-09-12
+LRN00290,18,Business,Theoretical,8.6,Certification,Advanced,2025-05-29
+LRN00291,26,Cloud,Visual,7.0,Career Switch,Intermediate,2024-08-27
+LRN00292,30,Design,Mixed,7.6,Certification,Advanced,2025-07-25
+LRN00293,21,Data Science,Theoretical,15.5,Career Switch,Intermediate,2024-06-18
+LRN00294,28,Cloud,Theoretical,7.5,Skill Enhancement,Advanced,2023-12-23
+LRN00295,44,Cloud,Hands-on,5.4,Skill Enhancement,Intermediate,2024-05-12
+LRN00296,34,Programming,Visual,3.6,Promotion,Beginner,2024-12-01
+LRN00297,18,Data Science,Hands-on,12.1,Personal Interest,Advanced,2025-02-20
+LRN00298,26,Business,Theoretical,2.2,Career Switch,Intermediate,2025-03-21
+LRN00299,24,Cloud,Theoretical,7.5,Skill Enhancement,Advanced,2024-12-02
+LRN00300,28,Cloud,Visual,6.5,Promotion,Advanced,2025-04-19
+LRN00301,44,Cloud,Hands-on,2.0,Skill Enhancement,Advanced,2024-01-08
+LRN00302,29,Cloud,Theoretical,5.5,Promotion,Beginner,2025-09-09
+LRN00303,31,Programming,Visual,5.4,Promotion,Intermediate,2023-12-12
+LRN00304,27,Data Science,Mixed,2.2,Promotion,Advanced,2025-09-07
+LRN00305,33,Design,Theoretical,2.1,Personal Interest,Intermediate,2025-01-31
+LRN00306,29,Design,Theoretical,2.3,Certification,Beginner,2025-08-08
+LRN00307,25,Data Science,Mixed,5.3,Certification,Intermediate,2024-06-20
+LRN00308,32,Data Science,Theoretical,4.7,Promotion,Beginner,2024-11-22
+LRN00309,18,Business,Theoretical,7.6,Certification,Beginner,2024-09-24
+LRN00310,31,Cloud,Visual,8.0,Personal Interest,Beginner,2024-06-18
+LRN00311,24,Programming,Theoretical,5.1,Certification,Beginner,2025-05-17
+LRN00312,21,Programming,Visual,6.5,Personal Interest,Intermediate,2024-01-17
+LRN00313,33,Design,Hands-on,4.8,Skill Enhancement,Intermediate,2024-02-25
+LRN00314,18,Business,Hands-on,1.6,Skill Enhancement,Intermediate,2024-04-29
+LRN00315,18,Design,Mixed,9.3,Personal Interest,Intermediate,2025-09-15
+LRN00316,31,Programming,Mixed,1.7,Promotion,Intermediate,2025-02-04
+LRN00317,18,Data Science,Theoretical,8.1,Career Switch,Beginner,2024-12-24
+LRN00318,18,Design,Mixed,5.4,Personal Interest,Advanced,2025-09-30
+LRN00319,24,Programming,Mixed,7.9,Skill Enhancement,Intermediate,2024-09-29
+LRN00320,18,Design,Theoretical,14.8,Career Switch,Intermediate,2025-08-17
+LRN00321,40,Cloud,Hands-on,5.7,Personal Interest,Advanced,2024-12-17
+LRN00322,34,Programming,Mixed,4.4,Promotion,Intermediate,2024-03-24
+LRN00323,26,Business,Visual,8.9,Skill Enhancement,Beginner,2024-08-31
+LRN00324,25,Business,Theoretical,1.0,Promotion,Intermediate,2025-05-14
+LRN00325,18,Data Science,Mixed,6.6,Promotion,Beginner,2025-08-23
+LRN00326,25,Programming,Hands-on,6.9,Personal Interest,Intermediate,2024-04-25
+LRN00327,18,Design,Hands-on,6.0,Promotion,Advanced,2025-05-18
+LRN00328,24,Business,Theoretical,9.1,Skill Enhancement,Intermediate,2024-01-16
+LRN00329,33,Business,Theoretical,10.3,Promotion,Advanced,2024-04-11
+LRN00330,28,Design,Theoretical,9.6,Certification,Beginner,2024-09-26
+LRN00331,23,Business,Visual,5.1,Certification,Advanced,2024-11-27
+LRN00332,33,Programming,Mixed,1.0,Personal Interest,Advanced,2024-02-24
+LRN00333,19,Cloud,Hands-on,2.5,Career Switch,Advanced,2024-06-04
+LRN00334,37,Data Science,Mixed,8.5,Skill Enhancement,Advanced,2025-02-02
+LRN00335,18,Programming,Visual,3.4,Skill Enhancement,Beginner,2024-07-14
+LRN00336,34,Business,Mixed,7.5,Skill Enhancement,Intermediate,2025-03-14
+LRN00337,34,Design,Mixed,4.6,Career Switch,Advanced,2025-05-20
+LRN00338,39,Cloud,Hands-on,1.5,Promotion,Intermediate,2023-11-30
+LRN00339,28,Design,Mixed,3.1,Personal Interest,Beginner,2024-06-25
+LRN00340,31,Cloud,Theoretical,3.7,Promotion,Intermediate,2023-11-16
+LRN00341,33,Business,Mixed,1.8,Skill Enhancement,Beginner,2024-12-27
+LRN00342,35,Cloud,Theoretical,8.4,Skill Enhancement,Intermediate,2024-12-17
+LRN00343,43,Data Science,Mixed,23.3,Personal Interest,Intermediate,2024-10-16
+LRN00344,36,Cloud,Theoretical,9.3,Personal Interest,Beginner,2024-02-29
+LRN00345,29,Cloud,Mixed,7.1,Certification,Intermediate,2025-05-12
+LRN00346,24,Business,Visual,7.9,Personal Interest,Advanced,2025-07-20
+LRN00347,23,Business,Mixed,2.5,Personal Interest,Advanced,2024-06-05
+LRN00348,36,Data Science,Hands-on,9.0,Promotion,Intermediate,2024-03-12
+LRN00349,27,Business,Hands-on,7.8,Career Switch,Advanced,2024-02-16
+LRN00350,31,Data Science,Hands-on,3.8,Career Switch,Advanced,2024-04-13
+LRN00351,25,Data Science,Hands-on,5.1,Career Switch,Beginner,2024-08-11
+LRN00352,27,Business,Mixed,7.0,Career Switch,Advanced,2025-05-21
+LRN00353,35,Programming,Hands-on,7.4,Certification,Advanced,2024-06-08
+LRN00354,42,Design,Hands-on,5.5,Personal Interest,Intermediate,2024-12-20
+LRN00355,31,Programming,Visual,3.8,Promotion,Beginner,2024-04-09
+LRN00356,20,Programming,Hands-on,4.5,Certification,Beginner,2025-09-01
+LRN00357,24,Design,Mixed,3.0,Skill Enhancement,Advanced,2024-12-16
+LRN00358,31,Programming,Visual,8.4,Personal Interest,Advanced,2024-01-30
+LRN00359,33,Programming,Theoretical,2.0,Personal Interest,Intermediate,2023-12-22
+LRN00360,28,Cloud,Mixed,3.5,Skill Enhancement,Advanced,2024-06-16
+LRN00361,19,Business,Hands-on,2.0,Career Switch,Intermediate,2025-04-25
+LRN00362,37,Design,Theoretical,3.0,Skill Enhancement,Beginner,2024-10-28
+LRN00363,23,Business,Hands-on,1.5,Skill Enhancement,Advanced,2023-12-24
+LRN00364,24,Design,Mixed,4.8,Promotion,Intermediate,2025-07-12
+LRN00365,29,Design,Visual,7.1,Skill Enhancement,Beginner,2024-06-07
+LRN00366,18,Business,Hands-on,7.2,Career Switch,Intermediate,2024-09-11
+LRN00367,24,Data Science,Mixed,6.2,Personal Interest,Intermediate,2024-12-03
+LRN00368,23,Cloud,Visual,5.4,Personal Interest,Advanced,2024-10-05
+LRN00369,21,Data Science,Visual,12.0,Career Switch,Intermediate,2024-11-28
+LRN00370,23,Data Science,Mixed,1.3,Promotion,Advanced,2024-11-24
+LRN00371,20,Programming,Theoretical,3.1,Personal Interest,Advanced,2025-02-24
+LRN00372,22,Data Science,Hands-on,2.9,Certification,Beginner,2024-06-30
+LRN00373,19,Cloud,Theoretical,5.6,Certification,Advanced,2024-03-25
+LRN00374,31,Design,Hands-on,3.7,Skill Enhancement,Advanced,2024-02-06
+LRN00375,25,Programming,Mixed,11.9,Promotion,Advanced,2024-10-03
+LRN00376,37,Programming,Visual,8.4,Career Switch,Advanced,2024-05-09
+LRN00377,18,Data Science,Hands-on,1.7,Skill Enhancement,Intermediate,2024-04-24
+LRN00378,35,Design,Visual,9.4,Skill Enhancement,Advanced,2024-02-19
+LRN00379,30,Design,Visual,4.7,Promotion,Intermediate,2025-08-13
+LRN00380,30,Design,Hands-on,9.5,Promotion,Intermediate,2024-06-28
+LRN00381,37,Cloud,Visual,5.5,Promotion,Intermediate,2023-11-20
+LRN00382,25,Business,Visual,7.4,Certification,Intermediate,2025-10-05
+LRN00383,27,Data Science,Visual,4.2,Career Switch,Intermediate,2024-10-21
+LRN00384,31,Programming,Visual,5.3,Career Switch,Intermediate,2025-09-06
+LRN00385,26,Business,Mixed,6.4,Skill Enhancement,Beginner,2023-12-22
+LRN00386,29,Design,Theoretical,4.0,Certification,Intermediate,2024-09-17
+LRN00387,18,Design,Visual,5.4,Promotion,Beginner,2023-12-09
+LRN00388,27,Business,Visual,2.1,Skill Enhancement,Advanced,2024-09-01
+LRN00389,33,Cloud,Hands-on,6.6,Skill Enhancement,Beginner,2025-09-15
+LRN00390,32,Business,Mixed,3.2,Promotion,Intermediate,2024-04-12
+LRN00391,22,Design,Hands-on,13.1,Skill Enhancement,Intermediate,2024-10-19
+LRN00392,25,Data Science,Theoretical,3.7,Skill Enhancement,Advanced,2025-06-15
+LRN00393,29,Programming,Mixed,6.8,Promotion,Beginner,2025-02-04
+LRN00394,31,Data Science,Visual,5.6,Career Switch,Advanced,2025-09-04
+LRN00395,33,Design,Visual,11.4,Skill Enhancement,Advanced,2025-08-24
+LRN00396,33,Design,Mixed,3.2,Skill Enhancement,Advanced,2025-02-28
+LRN00397,28,Programming,Hands-on,5.9,Promotion,Intermediate,2025-02-11
+LRN00398,34,Cloud,Theoretical,3.2,Promotion,Advanced,2023-11-20
+LRN00399,18,Business,Hands-on,9.8,Personal Interest,Beginner,2023-12-02
+LRN00400,33,Cloud,Hands-on,2.0,Certification,Intermediate,2024-12-31
+LRN00401,33,Programming,Hands-on,1.6,Certification,Advanced,2024-05-19
+LRN00402,18,Programming,Theoretical,3.7,Certification,Advanced,2024-11-16
+LRN00403,34,Design,Mixed,3.4,Skill Enhancement,Intermediate,2024-09-18
+LRN00404,28,Data Science,Mixed,3.9,Skill Enhancement,Beginner,2024-12-05
+LRN00405,39,Data Science,Mixed,3.4,Career Switch,Advanced,2024-08-12
+LRN00406,24,Design,Hands-on,8.4,Certification,Beginner,2025-01-20
+LRN00407,30,Data Science,Theoretical,3.4,Career Switch,Intermediate,2024-09-24
+LRN00408,30,Programming,Hands-on,2.5,Career Switch,Intermediate,2024-09-17
+LRN00409,21,Cloud,Visual,1.0,Career Switch,Beginner,2024-02-15
+LRN00410,32,Cloud,Hands-on,7.1,Certification,Beginner,2024-11-02
+LRN00411,32,Business,Visual,2.4,Skill Enhancement,Beginner,2025-06-10
+LRN00412,18,Design,Hands-on,4.6,Promotion,Advanced,2025-03-13
+LRN00413,21,Design,Hands-on,1.9,Promotion,Intermediate,2024-12-23
+LRN00414,28,Design,Mixed,8.9,Promotion,Advanced,2024-10-06
+LRN00415,31,Business,Theoretical,4.2,Personal Interest,Advanced,2024-05-17
+LRN00416,40,Design,Visual,7.0,Certification,Intermediate,2025-03-14
+LRN00417,20,Business,Theoretical,2.6,Certification,Beginner,2024-03-11
+LRN00418,33,Data Science,Hands-on,9.2,Career Switch,Intermediate,2024-03-21
+LRN00419,35,Cloud,Mixed,4.5,Personal Interest,Beginner,2025-03-22
+LRN00420,31,Business,Hands-on,4.7,Certification,Advanced,2025-01-30
+LRN00421,25,Design,Theoretical,1.9,Personal Interest,Intermediate,2023-12-21
+LRN00422,32,Design,Mixed,2.0,Skill Enhancement,Advanced,2024-10-13
+LRN00423,23,Data Science,Hands-on,5.7,Promotion,Intermediate,2025-04-03
+LRN00424,31,Cloud,Visual,1.6,Promotion,Beginner,2025-07-24
+LRN00425,18,Programming,Visual,9.7,Certification,Beginner,2024-01-02
+LRN00426,36,Data Science,Visual,5.3,Skill Enhancement,Beginner,2025-02-27
+LRN00427,19,Cloud,Mixed,5.6,Personal Interest,Beginner,2024-01-15
+LRN00428,25,Cloud,Mixed,3.1,Certification,Beginner,2025-10-02
+LRN00429,20,Cloud,Mixed,7.8,Career Switch,Beginner,2024-04-14
+LRN00430,26,Business,Theoretical,5.9,Career Switch,Advanced,2023-11-18
+LRN00431,25,Design,Hands-on,5.2,Career Switch,Beginner,2024-04-20
+LRN00432,27,Data Science,Hands-on,3.2,Skill Enhancement,Advanced,2024-04-17
+LRN00433,39,Business,Theoretical,9.3,Personal Interest,Intermediate,2025-07-20
+LRN00434,37,Business,Mixed,5.8,Certification,Advanced,2025-02-01
+LRN00435,27,Data Science,Theoretical,10.4,Career Switch,Advanced,2023-12-13
+LRN00436,26,Programming,Visual,11.5,Certification,Intermediate,2024-09-17
+LRN00437,21,Cloud,Mixed,5.1,Career Switch,Advanced,2025-09-29
+LRN00438,25,Data Science,Visual,9.0,Certification,Intermediate,2023-12-18
+LRN00439,23,Business,Visual,6.1,Promotion,Beginner,2025-02-15
+LRN00440,25,Data Science,Mixed,1.3,Personal Interest,Beginner,2025-07-24
+LRN00441,32,Business,Visual,2.2,Skill Enhancement,Intermediate,2025-09-22
+LRN00442,18,Data Science,Hands-on,3.6,Certification,Beginner,2024-12-06
+LRN00443,18,Data Science,Hands-on,10.8,Promotion,Intermediate,2023-11-15
+LRN00444,35,Cloud,Theoretical,7.8,Certification,Advanced,2025-05-18
+LRN00445,18,Programming,Theoretical,6.3,Career Switch,Beginner,2024-07-18
+LRN00446,40,Data Science,Visual,7.0,Personal Interest,Advanced,2024-01-19
+LRN00447,39,Cloud,Mixed,8.2,Personal Interest,Beginner,2023-12-29
+LRN00448,32,Business,Mixed,6.8,Certification,Beginner,2024-10-09
+LRN00449,21,Cloud,Mixed,3.3,Certification,Beginner,2023-11-12
+LRN00450,32,Cloud,Mixed,6.4,Career Switch,Advanced,2024-12-10
+LRN00451,31,Data Science,Visual,7.3,Career Switch,Intermediate,2025-05-04
+LRN00452,39,Design,Hands-on,6.0,Certification,Intermediate,2024-10-04
+LRN00453,35,Programming,Visual,5.0,Career Switch,Intermediate,2024-07-10
+LRN00454,18,Business,Theoretical,3.0,Career Switch,Beginner,2025-07-11
+LRN00455,22,Data Science,Mixed,3.2,Certification,Advanced,2024-03-19
+LRN00456,22,Cloud,Mixed,5.4,Career Switch,Beginner,2025-07-09
+LRN00457,35,Business,Visual,6.1,Promotion,Advanced,2024-11-10
+LRN00458,24,Design,Visual,7.2,Personal Interest,Intermediate,2024-09-06
+LRN00459,36,Programming,Hands-on,9.0,Promotion,Advanced,2025-04-18
+LRN00460,19,Design,Hands-on,5.9,Skill Enhancement,Intermediate,2024-12-04
+LRN00461,32,Business,Mixed,3.1,Skill Enhancement,Beginner,2025-04-20
+LRN00462,23,Design,Theoretical,7.0,Certification,Intermediate,2024-05-31
+LRN00463,18,Programming,Theoretical,9.5,Personal Interest,Beginner,2024-01-07
+LRN00464,32,Design,Hands-on,3.4,Certification,Beginner,2025-05-23
+LRN00465,32,Business,Visual,2.8,Certification,Intermediate,2024-01-12
+LRN00466,39,Design,Theoretical,6.6,Certification,Intermediate,2024-07-25
+LRN00467,18,Cloud,Hands-on,2.2,Personal Interest,Intermediate,2024-01-30
+LRN00468,37,Data Science,Mixed,4.3,Personal Interest,Beginner,2024-08-27
+LRN00469,33,Business,Theoretical,3.9,Certification,Advanced,2025-02-02
+LRN00470,33,Business,Mixed,8.2,Personal Interest,Intermediate,2024-09-30
+LRN00471,32,Programming,Hands-on,5.0,Promotion,Advanced,2025-04-07
+LRN00472,23,Cloud,Visual,5.2,Certification,Advanced,2025-03-08
+LRN00473,26,Design,Theoretical,1.3,Career Switch,Intermediate,2023-11-19
+LRN00474,33,Design,Hands-on,7.6,Personal Interest,Beginner,2025-01-23
+LRN00475,38,Data Science,Mixed,9.7,Certification,Beginner,2024-07-06
+LRN00476,44,Cloud,Mixed,6.2,Promotion,Intermediate,2024-04-09
+LRN00477,36,Cloud,Mixed,13.4,Promotion,Beginner,2024-10-05
+LRN00478,24,Cloud,Visual,7.1,Career Switch,Beginner,2023-12-05
+LRN00479,18,Business,Hands-on,4.7,Promotion,Beginner,2024-03-11
+LRN00480,32,Design,Theoretical,7.6,Certification,Beginner,2025-09-28
+LRN00481,35,Programming,Theoretical,5.1,Skill Enhancement,Advanced,2024-04-25
+LRN00482,22,Cloud,Hands-on,2.6,Certification,Intermediate,2024-09-03
+LRN00483,39,Design,Hands-on,5.3,Personal Interest,Beginner,2024-06-01
+LRN00484,18,Programming,Theoretical,9.4,Certification,Beginner,2025-06-12
+LRN00485,38,Data Science,Theoretical,6.8,Personal Interest,Intermediate,2024-06-29
+LRN00486,19,Data Science,Mixed,7.4,Personal Interest,Intermediate,2025-07-01
+LRN00487,20,Design,Mixed,9.1,Personal Interest,Beginner,2024-12-05
+LRN00488,31,Programming,Visual,12.2,Career Switch,Intermediate,2023-12-15
+LRN00489,34,Programming,Hands-on,2.7,Skill Enhancement,Advanced,2025-04-13
+LRN00490,52,Cloud,Hands-on,6.2,Personal Interest,Advanced,2024-07-29
+LRN00491,18,Design,Hands-on,5.8,Certification,Advanced,2025-04-03
+LRN00492,34,Data Science,Mixed,4.0,Certification,Beginner,2024-01-19
+LRN00493,26,Data Science,Mixed,3.1,Promotion,Intermediate,2024-09-05
+LRN00494,26,Programming,Hands-on,2.4,Skill Enhancement,Intermediate,2025-08-05
+LRN00495,32,Cloud,Visual,4.8,Promotion,Beginner,2024-09-29
+LRN00496,29,Business,Hands-on,8.8,Certification,Beginner,2025-01-13
+LRN00497,22,Design,Theoretical,6.3,Promotion,Intermediate,2024-01-22
+LRN00498,28,Design,Visual,3.8,Personal Interest,Intermediate,2024-06-27
+LRN00499,26,Cloud,Hands-on,6.5,Personal Interest,Advanced,2024-02-12
+LRN00500,30,Programming,Hands-on,4.7,Personal Interest,Beginner,2025-02-06
+LRN00501,22,Business,Visual,3.5,Skill Enhancement,Intermediate,2025-05-17
+LRN00502,22,Cloud,Mixed,3.9,Certification,Advanced,2025-05-20
+LRN00503,25,Cloud,Mixed,1.5,Certification,Beginner,2024-05-28
+LRN00504,24,Cloud,Hands-on,2.3,Promotion,Beginner,2024-05-25
+LRN00505,19,Business,Hands-on,4.2,Skill Enhancement,Intermediate,2024-07-04
+LRN00506,23,Cloud,Visual,4.0,Personal Interest,Beginner,2024-05-30
+LRN00507,29,Data Science,Hands-on,4.2,Certification,Advanced,2024-05-09
+LRN00508,30,Design,Mixed,5.2,Certification,Intermediate,2024-07-11
+LRN00509,21,Design,Hands-on,11.1,Career Switch,Advanced,2025-09-07
+LRN00510,30,Data Science,Theoretical,6.0,Career Switch,Intermediate,2025-02-20
+LRN00511,49,Cloud,Theoretical,1.9,Skill Enhancement,Intermediate,2024-03-08
+LRN00512,34,Design,Visual,5.1,Promotion,Beginner,2025-01-07
+LRN00513,21,Cloud,Theoretical,2.3,Promotion,Beginner,2024-07-14
+LRN00514,18,Cloud,Hands-on,13.8,Certification,Beginner,2023-12-09
+LRN00515,34,Data Science,Theoretical,4.1,Career Switch,Intermediate,2025-01-12
+LRN00516,34,Business,Visual,4.5,Certification,Beginner,2025-02-08
+LRN00517,34,Data Science,Theoretical,13.1,Promotion,Advanced,2024-07-27
+LRN00518,27,Data Science,Hands-on,10.5,Skill Enhancement,Beginner,2025-08-09
+LRN00519,27,Cloud,Theoretical,4.5,Promotion,Intermediate,2024-02-05
+LRN00520,36,Cloud,Hands-on,12.2,Personal Interest,Advanced,2024-12-13
+LRN00521,25,Business,Theoretical,6.2,Promotion,Advanced,2025-07-03
+LRN00522,18,Data Science,Mixed,16.4,Career Switch,Intermediate,2023-12-07
+LRN00523,26,Data Science,Hands-on,1.0,Skill Enhancement,Beginner,2024-11-13
+LRN00524,34,Data Science,Mixed,6.1,Certification,Beginner,2024-02-25
+LRN00525,19,Business,Mixed,2.9,Certification,Intermediate,2025-07-23
+LRN00526,22,Programming,Mixed,3.7,Promotion,Advanced,2024-12-28
+LRN00527,34,Business,Mixed,5.6,Certification,Intermediate,2024-02-21
+LRN00528,31,Programming,Visual,10.4,Certification,Advanced,2023-11-28
+LRN00529,23,Business,Visual,5.7,Promotion,Intermediate,2025-02-27
+LRN00530,21,Design,Hands-on,3.8,Certification,Intermediate,2024-11-12
+LRN00531,31,Business,Theoretical,3.4,Promotion,Advanced,2025-05-28
+LRN00532,22,Cloud,Mixed,3.0,Personal Interest,Advanced,2025-08-20
+LRN00533,20,Programming,Visual,6.4,Certification,Beginner,2025-06-03
+LRN00534,31,Data Science,Mixed,3.5,Certification,Beginner,2024-07-27
+LRN00535,31,Data Science,Hands-on,3.3,Personal Interest,Beginner,2025-01-01
+LRN00536,25,Programming,Theoretical,2.8,Personal Interest,Beginner,2024-09-23
+LRN00537,22,Data Science,Visual,5.1,Certification,Advanced,2024-11-30
+LRN00538,35,Data Science,Mixed,3.6,Career Switch,Advanced,2025-07-03
+LRN00539,31,Programming,Hands-on,1.9,Certification,Beginner,2025-05-26
+LRN00540,37,Cloud,Hands-on,4.2,Promotion,Advanced,2024-07-10
+LRN00541,29,Programming,Visual,1.0,Personal Interest,Beginner,2024-08-02
+LRN00542,28,Data Science,Mixed,8.8,Career Switch,Beginner,2024-09-11
+LRN00543,18,Programming,Visual,13.2,Career Switch,Intermediate,2024-09-27
+LRN00544,18,Business,Hands-on,4.4,Certification,Beginner,2023-12-22
+LRN00545,23,Data Science,Visual,6.5,Promotion,Advanced,2025-09-30
+LRN00546,21,Cloud,Hands-on,3.7,Certification,Intermediate,2025-03-04
+LRN00547,24,Data Science,Mixed,10.6,Promotion,Advanced,2024-07-12
+LRN00548,30,Data Science,Visual,4.0,Career Switch,Beginner,2025-06-04
+LRN00549,33,Cloud,Mixed,13.9,Personal Interest,Intermediate,2024-11-20
+LRN00550,22,Data Science,Hands-on,4.8,Personal Interest,Advanced,2025-07-14
+LRN00551,28,Data Science,Theoretical,10.8,Career Switch,Advanced,2024-12-04
+LRN00552,22,Data Science,Hands-on,2.3,Certification,Intermediate,2023-12-17
+LRN00553,28,Programming,Hands-on,6.2,Certification,Intermediate,2025-06-15
+LRN00554,33,Data Science,Mixed,1.8,Promotion,Beginner,2024-04-16
+LRN00555,34,Programming,Theoretical,4.0,Personal Interest,Beginner,2024-09-07
+LRN00556,30,Cloud,Mixed,7.3,Personal Interest,Advanced,2023-11-09
+LRN00557,35,Data Science,Mixed,2.5,Career Switch,Beginner,2024-02-15
+LRN00558,18,Programming,Visual,1.6,Personal Interest,Beginner,2025-08-29
+LRN00559,24,Programming,Mixed,3.9,Promotion,Intermediate,2024-01-04
+LRN00560,18,Cloud,Mixed,6.5,Certification,Advanced,2024-08-23
+LRN00561,18,Programming,Hands-on,5.2,Personal Interest,Beginner,2024-11-25
+LRN00562,31,Programming,Hands-on,4.7,Skill Enhancement,Advanced,2024-11-08
+LRN00563,18,Design,Visual,8.5,Personal Interest,Advanced,2024-07-18
+LRN00564,34,Data Science,Visual,2.8,Skill Enhancement,Beginner,2024-07-21
+LRN00565,41,Programming,Mixed,4.5,Promotion,Advanced,2025-08-13
+LRN00566,32,Business,Hands-on,3.1,Career Switch,Beginner,2025-05-21
+LRN00567,23,Programming,Hands-on,3.0,Certification,Intermediate,2024-04-21
+LRN00568,18,Cloud,Theoretical,6.6,Skill Enhancement,Intermediate,2025-06-01
+LRN00569,23,Business,Visual,5.1,Career Switch,Intermediate,2024-07-26
+LRN00570,18,Business,Visual,2.0,Personal Interest,Advanced,2024-02-26
+LRN00571,43,Programming,Mixed,5.7,Certification,Advanced,2024-10-05
+LRN00572,19,Programming,Mixed,10.6,Promotion,Beginner,2024-09-27
+LRN00573,21,Data Science,Theoretical,14.3,Career Switch,Advanced,2023-11-18
+LRN00574,34,Programming,Hands-on,1.5,Promotion,Beginner,2025-08-24
+LRN00575,20,Programming,Hands-on,7.0,Career Switch,Intermediate,2024-10-01
+LRN00576,32,Design,Hands-on,2.4,Skill Enhancement,Beginner,2024-03-21
+LRN00577,47,Design,Hands-on,5.8,Personal Interest,Beginner,2024-08-08
+LRN00578,22,Business,Theoretical,5.6,Career Switch,Advanced,2024-09-22
+LRN00579,26,Programming,Visual,1.4,Skill Enhancement,Beginner,2024-04-28
+LRN00580,32,Programming,Mixed,1.2,Career Switch,Intermediate,2024-12-23
+LRN00581,21,Business,Theoretical,5.8,Career Switch,Advanced,2024-06-28
+LRN00582,25,Programming,Theoretical,7.4,Skill Enhancement,Intermediate,2024-03-10
+LRN00583,18,Business,Hands-on,1.3,Certification,Intermediate,2024-02-11
+LRN00584,36,Design,Hands-on,5.0,Promotion,Beginner,2025-05-07
+LRN00585,38,Programming,Mixed,10.1,Career Switch,Beginner,2024-04-02
+LRN00586,23,Business,Visual,1.8,Personal Interest,Beginner,2023-12-05
+LRN00587,18,Design,Theoretical,3.7,Career Switch,Beginner,2024-04-14
+LRN00588,18,Data Science,Mixed,4.1,Certification,Beginner,2025-05-16
+LRN00589,37,Business,Visual,6.8,Career Switch,Beginner,2024-04-24
+LRN00590,26,Design,Theoretical,6.0,Certification,Advanced,2025-07-14
+LRN00591,31,Cloud,Visual,5.2,Promotion,Beginner,2023-12-26
+LRN00592,23,Design,Visual,7.0,Promotion,Advanced,2025-08-06
+LRN00593,20,Design,Hands-on,13.2,Skill Enhancement,Intermediate,2025-01-14
+LRN00594,31,Business,Mixed,2.8,Personal Interest,Intermediate,2024-07-02
+LRN00595,26,Business,Hands-on,5.9,Career Switch,Beginner,2025-05-22
+LRN00596,31,Cloud,Visual,8.0,Skill Enhancement,Beginner,2025-04-23
+LRN00597,18,Design,Mixed,6.8,Personal Interest,Intermediate,2025-06-07
+LRN00598,31,Cloud,Theoretical,2.0,Skill Enhancement,Intermediate,2024-11-27
+LRN00599,22,Design,Theoretical,2.5,Career Switch,Beginner,2025-04-30
+LRN00600,18,Business,Visual,3.7,Skill Enhancement,Intermediate,2025-05-10
+LRN00601,29,Programming,Hands-on,4.2,Personal Interest,Intermediate,2024-05-01
+LRN00602,25,Programming,Theoretical,5.0,Personal Interest,Beginner,2025-09-07
+LRN00603,23,Design,Mixed,5.8,Promotion,Advanced,2024-03-24
+LRN00604,36,Data Science,Visual,13.4,Certification,Beginner,2025-05-18
+LRN00605,28,Programming,Visual,6.6,Career Switch,Beginner,2025-05-28
+LRN00606,25,Data Science,Mixed,6.1,Personal Interest,Advanced,2024-01-02
+LRN00607,33,Programming,Theoretical,11.7,Career Switch,Beginner,2025-08-03
+LRN00608,23,Data Science,Mixed,3.3,Skill Enhancement,Beginner,2024-11-03
+LRN00609,42,Programming,Visual,4.4,Certification,Beginner,2025-04-19
+LRN00610,30,Cloud,Mixed,10.3,Certification,Intermediate,2025-09-08
+LRN00611,29,Design,Mixed,8.1,Skill Enhancement,Intermediate,2025-03-03
+LRN00612,26,Data Science,Theoretical,5.2,Personal Interest,Intermediate,2025-05-09
+LRN00613,37,Programming,Hands-on,7.8,Personal Interest,Intermediate,2024-08-13
+LRN00614,18,Cloud,Mixed,5.0,Career Switch,Beginner,2024-12-26
+LRN00615,31,Design,Hands-on,10.8,Certification,Beginner,2023-12-20
+LRN00616,18,Cloud,Hands-on,4.9,Promotion,Beginner,2024-09-12
+LRN00617,32,Business,Mixed,5.6,Promotion,Intermediate,2024-10-21
+LRN00618,25,Cloud,Theoretical,3.3,Certification,Intermediate,2025-04-07
+LRN00619,30,Programming,Theoretical,6.9,Promotion,Beginner,2025-09-08
+LRN00620,18,Business,Visual,6.9,Certification,Advanced,2024-10-07
+LRN00621,18,Cloud,Hands-on,4.3,Skill Enhancement,Beginner,2025-01-28
+LRN00622,25,Data Science,Theoretical,6.7,Promotion,Advanced,2025-08-12
+LRN00623,30,Data Science,Mixed,3.0,Personal Interest,Beginner,2025-04-11
+LRN00624,26,Data Science,Theoretical,9.5,Personal Interest,Advanced,2025-09-10
+LRN00625,41,Business,Hands-on,4.2,Promotion,Beginner,2024-05-22
+LRN00626,23,Cloud,Theoretical,4.9,Skill Enhancement,Intermediate,2025-08-31
+LRN00627,33,Programming,Visual,5.6,Skill Enhancement,Advanced,2025-02-26
+LRN00628,23,Programming,Mixed,5.6,Career Switch,Intermediate,2024-01-19
+LRN00629,24,Data Science,Hands-on,3.4,Personal Interest,Advanced,2025-04-10
+LRN00630,36,Business,Visual,11.9,Career Switch,Beginner,2024-02-16
+LRN00631,35,Data Science,Visual,2.6,Promotion,Intermediate,2025-07-26
+LRN00632,26,Business,Mixed,8.3,Promotion,Beginner,2024-10-29
+LRN00633,27,Business,Theoretical,3.6,Skill Enhancement,Beginner,2024-07-18
+LRN00634,23,Design,Theoretical,7.8,Skill Enhancement,Advanced,2024-03-12
+LRN00635,27,Cloud,Theoretical,2.9,Skill Enhancement,Advanced,2024-02-13
+LRN00636,33,Data Science,Mixed,3.2,Personal Interest,Advanced,2024-12-11
+LRN00637,18,Data Science,Hands-on,4.2,Career Switch,Advanced,2024-03-01
+LRN00638,33,Design,Visual,1.0,Skill Enhancement,Advanced,2024-11-17
+LRN00639,38,Cloud,Hands-on,6.4,Promotion,Beginner,2024-05-18
+LRN00640,26,Data Science,Theoretical,4.8,Career Switch,Beginner,2024-10-18
+LRN00641,18,Business,Hands-on,1.4,Career Switch,Advanced,2023-11-22
+LRN00642,40,Business,Mixed,3.0,Career Switch,Intermediate,2025-03-08
+LRN00643,18,Data Science,Visual,8.3,Personal Interest,Intermediate,2025-06-20
+LRN00644,25,Programming,Visual,7.6,Certification,Intermediate,2024-08-05
+LRN00645,18,Data Science,Mixed,3.9,Certification,Intermediate,2024-10-14
+LRN00646,32,Cloud,Mixed,9.2,Career Switch,Intermediate,2024-02-25
+LRN00647,19,Data Science,Hands-on,4.3,Certification,Beginner,2025-09-04
+LRN00648,39,Business,Visual,2.4,Personal Interest,Intermediate,2025-06-23
+LRN00649,35,Programming,Theoretical,13.8,Skill Enhancement,Intermediate,2025-04-27
+LRN00650,25,Programming,Visual,1.3,Personal Interest,Advanced,2024-01-19
+LRN00651,18,Design,Visual,1.2,Certification,Advanced,2025-04-23
+LRN00652,37,Cloud,Mixed,6.0,Skill Enhancement,Beginner,2025-06-27
+LRN00653,29,Business,Hands-on,6.8,Skill Enhancement,Intermediate,2024-03-20
+LRN00654,39,Cloud,Theoretical,6.4,Personal Interest,Intermediate,2025-02-07
+LRN00655,20,Programming,Visual,3.4,Certification,Advanced,2024-03-25
+LRN00656,32,Design,Hands-on,4.1,Career Switch,Intermediate,2025-10-05
+LRN00657,35,Design,Visual,6.9,Personal Interest,Advanced,2024-01-07
+LRN00658,35,Cloud,Mixed,13.0,Skill Enhancement,Beginner,2025-09-12
+LRN00659,33,Data Science,Hands-on,13.5,Personal Interest,Beginner,2024-06-11
+LRN00660,35,Programming,Theoretical,3.2,Certification,Intermediate,2024-05-26
+LRN00661,19,Business,Visual,8.2,Promotion,Intermediate,2025-04-02
+LRN00662,21,Business,Mixed,8.0,Personal Interest,Beginner,2024-07-09
+LRN00663,30,Programming,Theoretical,2.7,Certification,Intermediate,2025-01-12
+LRN00664,25,Data Science,Theoretical,4.1,Promotion,Beginner,2025-05-07
+LRN00665,18,Programming,Visual,4.7,Personal Interest,Advanced,2024-08-11
+LRN00666,25,Cloud,Hands-on,2.5,Promotion,Beginner,2024-09-07
+LRN00667,43,Cloud,Mixed,3.7,Promotion,Advanced,2024-06-09
+LRN00668,21,Cloud,Hands-on,6.0,Certification,Intermediate,2025-07-20
+LRN00669,35,Design,Visual,3.2,Promotion,Advanced,2024-04-27
+LRN00670,28,Cloud,Hands-on,1.5,Career Switch,Intermediate,2025-04-14
+LRN00671,36,Data Science,Hands-on,2.6,Skill Enhancement,Beginner,2025-08-26
+LRN00672,25,Design,Visual,6.1,Certification,Beginner,2024-01-05
+LRN00673,18,Data Science,Theoretical,5.7,Personal Interest,Advanced,2025-08-01
+LRN00674,29,Programming,Mixed,6.6,Promotion,Intermediate,2024-03-22
+LRN00675,29,Business,Theoretical,7.8,Promotion,Intermediate,2025-09-26
+LRN00676,18,Cloud,Mixed,4.6,Career Switch,Intermediate,2025-05-08
+LRN00677,28,Data Science,Visual,10.1,Career Switch,Advanced,2025-06-27
+LRN00678,18,Business,Theoretical,2.9,Certification,Intermediate,2024-09-11
+LRN00679,24,Design,Mixed,3.2,Career Switch,Beginner,2024-12-30
+LRN00680,30,Design,Hands-on,8.8,Promotion,Advanced,2023-11-11
+LRN00681,33,Design,Visual,2.1,Certification,Intermediate,2025-02-07
+LRN00682,21,Programming,Mixed,10.1,Personal Interest,Intermediate,2025-09-18
+LRN00683,29,Business,Theoretical,7.6,Personal Interest,Intermediate,2024-05-23
+LRN00684,50,Programming,Hands-on,1.0,Skill Enhancement,Intermediate,2024-07-12
+LRN00685,35,Business,Theoretical,2.0,Certification,Advanced,2023-12-17
+LRN00686,23,Programming,Hands-on,3.5,Certification,Beginner,2024-08-18
+LRN00687,25,Design,Theoretical,5.2,Career Switch,Advanced,2025-04-29
+LRN00688,30,Programming,Theoretical,10.7,Promotion,Intermediate,2025-05-23
+LRN00689,30,Cloud,Visual,3.1,Skill Enhancement,Beginner,2025-03-17
+LRN00690,18,Programming,Hands-on,2.4,Career Switch,Intermediate,2025-08-18
+LRN00691,37,Business,Hands-on,2.9,Personal Interest,Intermediate,2024-06-20
+LRN00692,30,Cloud,Mixed,9.8,Career Switch,Advanced,2025-09-07
+LRN00693,36,Data Science,Theoretical,5.3,Certification,Advanced,2024-07-09
+LRN00694,36,Data Science,Mixed,2.3,Promotion,Advanced,2024-10-15
+LRN00695,31,Business,Hands-on,4.0,Personal Interest,Advanced,2025-07-08
+LRN00696,18,Business,Visual,4.2,Certification,Beginner,2025-04-25
+LRN00697,31,Cloud,Hands-on,18.8,Skill Enhancement,Advanced,2025-02-20
+LRN00698,22,Data Science,Theoretical,6.0,Certification,Advanced,2025-09-18
+LRN00699,20,Programming,Mixed,7.8,Skill Enhancement,Advanced,2025-04-14
+LRN00700,18,Cloud,Visual,5.3,Skill Enhancement,Intermediate,2024-01-25
+LRN00701,23,Business,Theoretical,3.0,Certification,Intermediate,2024-10-16
+LRN00702,19,Design,Theoretical,12.4,Skill Enhancement,Intermediate,2024-12-03
+LRN00703,32,Cloud,Mixed,3.8,Promotion,Beginner,2025-10-01
+LRN00704,45,Cloud,Theoretical,7.1,Promotion,Advanced,2024-02-08
+LRN00705,42,Cloud,Theoretical,4.2,Personal Interest,Advanced,2025-06-20
+LRN00706,26,Design,Visual,2.6,Personal Interest,Intermediate,2023-12-23
+LRN00707,37,Business,Theoretical,11.5,Personal Interest,Advanced,2023-12-11
+LRN00708,23,Business,Hands-on,7.9,Skill Enhancement,Advanced,2025-02-04
+LRN00709,26,Programming,Mixed,6.1,Personal Interest,Advanced,2025-05-18
+LRN00710,20,Programming,Mixed,3.6,Personal Interest,Intermediate,2024-08-06
+LRN00711,26,Design,Mixed,2.2,Career Switch,Advanced,2024-03-02
+LRN00712,28,Data Science,Theoretical,2.4,Skill Enhancement,Advanced,2024-04-09
+LRN00713,18,Design,Theoretical,4.7,Promotion,Intermediate,2025-04-17
+LRN00714,35,Cloud,Hands-on,3.3,Personal Interest,Beginner,2024-06-13
+LRN00715,43,Data Science,Theoretical,5.9,Promotion,Beginner,2023-11-12
+LRN00716,32,Business,Visual,5.1,Skill Enhancement,Intermediate,2025-02-22
+LRN00717,18,Business,Mixed,1.4,Personal Interest,Intermediate,2025-01-15
+LRN00718,39,Cloud,Theoretical,4.5,Certification,Beginner,2024-06-14
+LRN00719,20,Programming,Visual,3.0,Certification,Beginner,2024-05-14
+LRN00720,33,Programming,Mixed,16.0,Promotion,Intermediate,2024-08-11
+LRN00721,37,Programming,Hands-on,1.3,Skill Enhancement,Beginner,2024-10-23
+LRN00722,35,Design,Mixed,3.1,Skill Enhancement,Intermediate,2025-04-07
+LRN00723,28,Programming,Mixed,4.7,Personal Interest,Advanced,2025-04-10
+LRN00724,34,Business,Visual,5.1,Career Switch,Intermediate,2025-01-01
+LRN00725,27,Data Science,Hands-on,3.2,Promotion,Beginner,2024-05-25
+LRN00726,29,Programming,Hands-on,7.2,Promotion,Intermediate,2023-12-30
+LRN00727,39,Design,Mixed,5.2,Certification,Intermediate,2024-09-11
+LRN00728,21,Programming,Visual,7.1,Promotion,Beginner,2024-09-21
+LRN00729,32,Programming,Theoretical,7.4,Promotion,Beginner,2025-09-20
+LRN00730,21,Programming,Hands-on,6.9,Skill Enhancement,Advanced,2024-10-21
+LRN00731,18,Business,Hands-on,6.0,Career Switch,Intermediate,2024-05-11
+LRN00732,31,Cloud,Theoretical,3.4,Skill Enhancement,Beginner,2025-08-23
+LRN00733,24,Business,Theoretical,2.2,Certification,Advanced,2024-04-24
+LRN00734,40,Cloud,Theoretical,8.6,Certification,Advanced,2025-05-24
+LRN00735,29,Business,Mixed,4.4,Personal Interest,Beginner,2025-04-23
+LRN00736,18,Design,Visual,6.8,Skill Enhancement,Beginner,2025-05-27
+LRN00737,31,Data Science,Visual,10.0,Promotion,Advanced,2025-04-18
+LRN00738,23,Programming,Theoretical,6.9,Career Switch,Intermediate,2023-12-23
+LRN00739,36,Business,Visual,1.7,Promotion,Beginner,2023-12-01
+LRN00740,41,Programming,Visual,16.7,Career Switch,Advanced,2025-06-12
+LRN00741,35,Design,Mixed,9.8,Certification,Beginner,2024-03-27
+LRN00742,43,Business,Mixed,5.8,Skill Enhancement,Beginner,2024-01-02
+LRN00743,23,Programming,Theoretical,1.7,Certification,Advanced,2025-06-27
+LRN00744,29,Cloud,Theoretical,5.0,Promotion,Advanced,2025-05-21
+LRN00745,21,Design,Visual,3.8,Promotion,Advanced,2024-01-15
+LRN00746,23,Programming,Theoretical,4.9,Career Switch,Beginner,2024-05-17
+LRN00747,23,Data Science,Hands-on,4.3,Personal Interest,Advanced,2025-03-16
+LRN00748,22,Business,Mixed,5.4,Personal Interest,Beginner,2025-08-29
+LRN00749,41,Cloud,Mixed,14.2,Skill Enhancement,Advanced,2024-06-03
+LRN00750,32,Business,Hands-on,5.6,Career Switch,Beginner,2023-11-21
+LRN00751,29,Programming,Visual,2.1,Promotion,Advanced,2024-05-21
+LRN00752,24,Data Science,Visual,8.5,Promotion,Beginner,2025-06-27
+LRN00753,27,Business,Hands-on,5.1,Certification,Intermediate,2025-01-11
+LRN00754,18,Design,Visual,5.7,Career Switch,Beginner,2025-08-29
+LRN00755,35,Business,Theoretical,1.0,Personal Interest,Intermediate,2025-06-12
+LRN00756,19,Programming,Visual,13.5,Career Switch,Beginner,2023-11-29
+LRN00757,25,Data Science,Theoretical,5.1,Personal Interest,Intermediate,2024-01-11
+LRN00758,28,Business,Visual,7.2,Personal Interest,Intermediate,2025-04-04
+LRN00759,20,Programming,Mixed,1.6,Certification,Intermediate,2025-01-03
+LRN00760,32,Design,Mixed,9.5,Certification,Advanced,2025-04-21
+LRN00761,34,Programming,Hands-on,5.2,Career Switch,Beginner,2025-06-24
+LRN00762,20,Design,Mixed,2.1,Promotion,Advanced,2024-07-17
+LRN00763,28,Data Science,Mixed,5.5,Personal Interest,Advanced,2025-09-09
+LRN00764,18,Data Science,Mixed,7.1,Certification,Beginner,2024-08-13
+LRN00765,23,Design,Visual,3.7,Career Switch,Intermediate,2023-12-08
+LRN00766,40,Business,Visual,6.9,Promotion,Advanced,2024-02-26
+LRN00767,31,Cloud,Hands-on,5.9,Personal Interest,Advanced,2024-04-21
+LRN00768,25,Cloud,Visual,10.7,Certification,Advanced,2025-01-27
+LRN00769,18,Design,Theoretical,5.9,Certification,Beginner,2024-03-16
+LRN00770,28,Cloud,Visual,2.8,Career Switch,Advanced,2025-05-01
+LRN00771,41,Cloud,Mixed,11.2,Certification,Beginner,2025-07-24
+LRN00772,18,Design,Theoretical,1.3,Skill Enhancement,Intermediate,2024-12-28
+LRN00773,19,Programming,Hands-on,2.3,Promotion,Advanced,2024-09-16
+LRN00774,30,Design,Hands-on,15.5,Career Switch,Intermediate,2024-07-11
+LRN00775,40,Cloud,Mixed,10.3,Career Switch,Intermediate,2024-07-08
+LRN00776,23,Business,Visual,8.8,Certification,Advanced,2023-12-09
+LRN00777,19,Programming,Visual,7.8,Certification,Intermediate,2025-09-02
+LRN00778,34,Cloud,Visual,2.5,Career Switch,Advanced,2024-01-14
+LRN00779,27,Business,Hands-on,13.7,Certification,Intermediate,2024-10-01
+LRN00780,18,Programming,Hands-on,1.3,Certification,Intermediate,2024-03-14
+LRN00781,27,Cloud,Mixed,5.5,Personal Interest,Advanced,2024-07-02
+LRN00782,25,Programming,Visual,5.0,Skill Enhancement,Beginner,2024-10-24
+LRN00783,18,Business,Theoretical,8.6,Promotion,Advanced,2024-09-21
+LRN00784,44,Programming,Visual,9.1,Skill Enhancement,Intermediate,2025-05-18
+LRN00785,28,Design,Visual,9.0,Personal Interest,Advanced,2025-03-22
+LRN00786,29,Data Science,Visual,4.4,Certification,Beginner,2024-06-27
+LRN00787,38,Data Science,Theoretical,5.8,Career Switch,Intermediate,2025-08-22
+LRN00788,34,Cloud,Visual,3.1,Certification,Intermediate,2023-12-04
+LRN00789,22,Cloud,Hands-on,7.2,Certification,Beginner,2024-04-13
+LRN00790,18,Programming,Mixed,14.4,Promotion,Intermediate,2024-05-06
+LRN00791,18,Data Science,Hands-on,1.8,Skill Enhancement,Beginner,2024-09-07
+LRN00792,28,Cloud,Theoretical,10.5,Promotion,Intermediate,2024-08-06
+LRN00793,24,Cloud,Hands-on,11.0,Personal Interest,Intermediate,2024-10-22
+LRN00794,37,Business,Mixed,16.9,Skill Enhancement,Beginner,2024-08-12
+LRN00795,18,Cloud,Theoretical,7.1,Promotion,Intermediate,2024-03-21
+LRN00796,29,Data Science,Hands-on,2.7,Skill Enhancement,Advanced,2024-12-15
+LRN00797,36,Business,Hands-on,4.5,Skill Enhancement,Advanced,2024-04-01
+LRN00798,31,Business,Visual,15.2,Personal Interest,Advanced,2024-06-04
+LRN00799,28,Cloud,Mixed,8.4,Promotion,Intermediate,2024-08-02
+LRN00800,34,Programming,Visual,2.0,Career Switch,Intermediate,2025-05-13
+LRN00801,24,Programming,Visual,7.4,Skill Enhancement,Intermediate,2025-04-27
+LRN00802,29,Business,Theoretical,7.9,Skill Enhancement,Beginner,2024-12-10
+LRN00803,33,Data Science,Visual,5.0,Personal Interest,Intermediate,2025-06-26
+LRN00804,31,Cloud,Hands-on,10.3,Promotion,Intermediate,2025-02-07
+LRN00805,35,Cloud,Theoretical,5.4,Career Switch,Intermediate,2024-09-07
+LRN00806,18,Design,Theoretical,14.2,Promotion,Beginner,2025-09-25
+LRN00807,20,Business,Hands-on,3.9,Promotion,Intermediate,2025-02-20
+LRN00808,18,Business,Hands-on,7.5,Skill Enhancement,Intermediate,2024-07-06
+LRN00809,22,Data Science,Visual,11.0,Skill Enhancement,Beginner,2024-04-30
+LRN00810,22,Programming,Mixed,4.3,Career Switch,Intermediate,2024-12-27
+LRN00811,30,Cloud,Theoretical,1.8,Skill Enhancement,Beginner,2024-02-18
+LRN00812,18,Business,Visual,2.7,Personal Interest,Intermediate,2025-05-03
+LRN00813,27,Programming,Hands-on,9.3,Personal Interest,Advanced,2025-08-17
+LRN00814,23,Cloud,Theoretical,8.3,Certification,Advanced,2024-03-24
+LRN00815,24,Business,Visual,3.7,Personal Interest,Advanced,2025-02-25
+LRN00816,31,Data Science,Visual,5.8,Promotion,Beginner,2024-08-09
+LRN00817,30,Cloud,Mixed,16.4,Career Switch,Intermediate,2025-02-24
+LRN00818,28,Data Science,Theoretical,4.2,Personal Interest,Intermediate,2024-12-12
+LRN00819,22,Data Science,Mixed,4.9,Promotion,Advanced,2025-09-29
+LRN00820,30,Programming,Theoretical,8.1,Certification,Beginner,2023-12-21
+LRN00821,32,Cloud,Hands-on,8.5,Career Switch,Advanced,2024-11-14
+LRN00822,24,Design,Visual,9.5,Certification,Intermediate,2024-04-03
+LRN00823,34,Business,Visual,7.4,Promotion,Intermediate,2024-04-30
+LRN00824,25,Cloud,Mixed,5.6,Certification,Beginner,2024-12-09
+LRN00825,26,Data Science,Theoretical,4.3,Promotion,Beginner,2025-07-02
+LRN00826,36,Data Science,Visual,5.9,Career Switch,Beginner,2023-11-22
+LRN00827,37,Data Science,Mixed,5.6,Career Switch,Beginner,2024-04-06
+LRN00828,42,Design,Visual,10.7,Skill Enhancement,Beginner,2024-06-25
+LRN00829,26,Business,Visual,3.6,Career Switch,Beginner,2025-08-14
+LRN00830,30,Data Science,Theoretical,10.4,Promotion,Beginner,2024-02-28
+LRN00831,36,Data Science,Theoretical,6.6,Certification,Intermediate,2024-07-04
+LRN00832,32,Design,Mixed,9.0,Personal Interest,Beginner,2024-09-05
+LRN00833,26,Programming,Visual,5.6,Promotion,Beginner,2024-02-17
+LRN00834,29,Programming,Visual,2.9,Personal Interest,Advanced,2025-06-22
+LRN00835,21,Business,Theoretical,9.3,Promotion,Beginner,2024-12-24
+LRN00836,22,Design,Mixed,6.8,Certification,Advanced,2025-09-07
+LRN00837,28,Design,Hands-on,2.0,Promotion,Beginner,2025-05-22
+LRN00838,18,Design,Theoretical,9.4,Skill Enhancement,Intermediate,2023-11-15
+LRN00839,26,Business,Visual,2.4,Promotion,Advanced,2025-05-17
+LRN00840,28,Programming,Visual,4.8,Career Switch,Advanced,2024-02-06
+LRN00841,27,Design,Visual,1.7,Personal Interest,Beginner,2024-10-21
+LRN00842,41,Data Science,Mixed,3.5,Promotion,Beginner,2025-04-27
+LRN00843,32,Data Science,Hands-on,2.7,Promotion,Intermediate,2025-03-24
+LRN00844,42,Programming,Hands-on,8.7,Promotion,Beginner,2024-03-25
+LRN00845,21,Design,Visual,8.8,Personal Interest,Advanced,2025-08-01
+LRN00846,18,Business,Visual,8.4,Skill Enhancement,Advanced,2024-02-22
+LRN00847,27,Design,Theoretical,1.9,Personal Interest,Beginner,2023-11-21
+LRN00848,24,Data Science,Visual,3.3,Personal Interest,Advanced,2025-07-29
+LRN00849,32,Data Science,Theoretical,5.8,Certification,Intermediate,2024-11-06
+LRN00850,25,Cloud,Theoretical,2.7,Promotion,Beginner,2024-03-08
+LRN00851,26,Cloud,Theoretical,2.2,Personal Interest,Intermediate,2025-04-19
+LRN00852,18,Programming,Theoretical,3.6,Skill Enhancement,Beginner,2023-12-22
+LRN00853,30,Design,Theoretical,5.0,Personal Interest,Beginner,2023-11-13
+LRN00854,24,Business,Mixed,3.4,Certification,Intermediate,2024-10-06
+LRN00855,18,Business,Mixed,10.0,Promotion,Beginner,2025-04-12
+LRN00856,28,Cloud,Visual,6.3,Personal Interest,Beginner,2024-04-05
+LRN00857,27,Data Science,Theoretical,6.2,Career Switch,Advanced,2025-07-23
+LRN00858,18,Programming,Visual,2.7,Promotion,Advanced,2024-08-20
+LRN00859,38,Cloud,Hands-on,1.9,Career Switch,Advanced,2025-01-15
+LRN00860,23,Cloud,Mixed,9.3,Skill Enhancement,Intermediate,2024-09-02
+LRN00861,24,Data Science,Theoretical,2.6,Skill Enhancement,Intermediate,2024-05-13
+LRN00862,21,Cloud,Visual,1.4,Certification,Intermediate,2024-05-12
+LRN00863,31,Programming,Hands-on,8.9,Promotion,Advanced,2025-04-22
+LRN00864,25,Cloud,Hands-on,1.0,Certification,Beginner,2025-04-08
+LRN00865,27,Cloud,Hands-on,2.6,Certification,Intermediate,2025-08-28
+LRN00866,19,Data Science,Mixed,7.0,Skill Enhancement,Beginner,2025-01-11
+LRN00867,23,Business,Hands-on,2.9,Career Switch,Advanced,2025-03-11
+LRN00868,30,Cloud,Theoretical,5.9,Certification,Intermediate,2024-06-30
+LRN00869,38,Programming,Visual,4.7,Personal Interest,Beginner,2024-04-23
+LRN00870,29,Business,Theoretical,5.4,Promotion,Advanced,2024-03-04
+LRN00871,25,Data Science,Mixed,3.5,Certification,Intermediate,2024-02-15
+LRN00872,20,Programming,Theoretical,2.0,Certification,Beginner,2024-04-28
+LRN00873,18,Design,Theoretical,7.1,Personal Interest,Intermediate,2024-06-02
+LRN00874,21,Cloud,Visual,5.4,Promotion,Beginner,2024-07-15
+LRN00875,18,Data Science,Hands-on,8.4,Career Switch,Advanced,2023-12-20
+LRN00876,38,Business,Hands-on,3.0,Skill Enhancement,Beginner,2025-04-30
+LRN00877,28,Business,Visual,3.9,Skill Enhancement,Intermediate,2024-11-04
+LRN00878,27,Programming,Mixed,4.2,Certification,Intermediate,2025-03-07
+LRN00879,27,Cloud,Hands-on,7.4,Certification,Beginner,2025-02-01
+LRN00880,26,Programming,Hands-on,4.1,Promotion,Advanced,2025-04-27
+LRN00881,30,Data Science,Visual,10.9,Promotion,Beginner,2025-08-12
+LRN00882,23,Data Science,Theoretical,2.3,Skill Enhancement,Advanced,2024-08-19
+LRN00883,31,Cloud,Visual,6.3,Personal Interest,Beginner,2025-03-01
+LRN00884,34,Design,Mixed,4.7,Certification,Beginner,2025-02-26
+LRN00885,23,Design,Hands-on,1.9,Promotion,Beginner,2024-01-09
+LRN00886,38,Cloud,Theoretical,10.5,Skill Enhancement,Advanced,2024-10-23
+LRN00887,31,Design,Visual,4.5,Skill Enhancement,Intermediate,2024-09-09
+LRN00888,25,Data Science,Visual,9.2,Career Switch,Beginner,2024-04-21
+LRN00889,18,Cloud,Mixed,2.7,Skill Enhancement,Advanced,2025-07-02
+LRN00890,39,Data Science,Mixed,4.9,Promotion,Advanced,2025-08-30
+LRN00891,18,Cloud,Visual,4.3,Career Switch,Intermediate,2023-12-03
+LRN00892,34,Data Science,Visual,4.2,Certification,Advanced,2024-08-04
+LRN00893,26,Business,Visual,3.6,Promotion,Intermediate,2025-02-16
+LRN00894,18,Design,Mixed,4.0,Personal Interest,Advanced,2024-02-27
+LRN00895,21,Programming,Mixed,2.6,Skill Enhancement,Intermediate,2024-06-07
+LRN00896,27,Data Science,Visual,6.4,Personal Interest,Advanced,2024-03-31
+LRN00897,41,Design,Theoretical,12.1,Skill Enhancement,Beginner,2025-10-01
+LRN00898,47,Cloud,Visual,2.5,Promotion,Beginner,2024-09-19
+LRN00899,18,Data Science,Theoretical,6.7,Certification,Intermediate,2025-06-21
+LRN00900,26,Data Science,Mixed,9.1,Promotion,Intermediate,2025-01-14
+LRN00901,29,Cloud,Mixed,4.6,Promotion,Intermediate,2024-01-21
+LRN00902,18,Business,Mixed,6.4,Skill Enhancement,Intermediate,2024-03-22
+LRN00903,29,Cloud,Mixed,6.4,Skill Enhancement,Intermediate,2024-03-15
+LRN00904,27,Cloud,Mixed,4.8,Personal Interest,Intermediate,2024-02-25
+LRN00905,33,Business,Mixed,7.5,Skill Enhancement,Advanced,2025-06-09
+LRN00906,37,Data Science,Mixed,4.6,Skill Enhancement,Beginner,2025-03-03
+LRN00907,39,Cloud,Mixed,8.0,Personal Interest,Advanced,2024-01-19
+LRN00908,25,Programming,Hands-on,9.8,Certification,Advanced,2025-10-03
+LRN00909,41,Programming,Hands-on,2.8,Certification,Advanced,2024-07-20
+LRN00910,22,Programming,Visual,10.8,Personal Interest,Beginner,2024-09-24
+LRN00911,32,Programming,Visual,3.3,Certification,Intermediate,2024-01-19
+LRN00912,22,Cloud,Theoretical,2.8,Promotion,Beginner,2025-04-12
+LRN00913,18,Design,Mixed,5.0,Career Switch,Beginner,2023-12-06
+LRN00914,20,Cloud,Theoretical,14.0,Skill Enhancement,Beginner,2024-02-03
+LRN00915,29,Cloud,Hands-on,2.6,Promotion,Beginner,2023-11-18
+LRN00916,26,Programming,Theoretical,9.1,Skill Enhancement,Advanced,2025-10-08
+LRN00917,31,Data Science,Visual,7.0,Personal Interest,Intermediate,2024-10-12
+LRN00918,22,Design,Mixed,8.8,Promotion,Beginner,2024-04-26
+LRN00919,34,Programming,Visual,1.3,Career Switch,Advanced,2024-12-21
+LRN00920,34,Cloud,Theoretical,4.3,Personal Interest,Intermediate,2025-02-19
+LRN00921,21,Cloud,Hands-on,1.6,Certification,Intermediate,2024-02-28
+LRN00922,40,Programming,Theoretical,4.1,Skill Enhancement,Intermediate,2024-05-08
+LRN00923,35,Programming,Visual,5.7,Promotion,Intermediate,2024-10-25
+LRN00924,26,Programming,Theoretical,4.5,Promotion,Advanced,2025-01-25
+LRN00925,18,Design,Mixed,6.4,Promotion,Intermediate,2025-02-01
+LRN00926,42,Business,Mixed,3.7,Certification,Advanced,2025-09-10
+LRN00927,23,Design,Visual,7.7,Personal Interest,Beginner,2024-09-12
+LRN00928,18,Data Science,Hands-on,3.3,Personal Interest,Intermediate,2024-10-12
+LRN00929,43,Cloud,Visual,6.5,Personal Interest,Beginner,2024-12-18
+LRN00930,29,Programming,Mixed,3.6,Personal Interest,Beginner,2024-03-20
+LRN00931,30,Data Science,Mixed,18.3,Personal Interest,Intermediate,2025-02-27
+LRN00932,38,Cloud,Theoretical,4.1,Skill Enhancement,Advanced,2023-11-09
+LRN00933,19,Data Science,Mixed,5.6,Skill Enhancement,Beginner,2025-02-03
+LRN00934,28,Business,Hands-on,7.4,Skill Enhancement,Beginner,2025-01-26
+LRN00935,19,Cloud,Theoretical,4.6,Skill Enhancement,Beginner,2025-06-08
+LRN00936,48,Programming,Mixed,6.2,Promotion,Beginner,2024-04-02
+LRN00937,18,Programming,Mixed,3.8,Personal Interest,Advanced,2024-11-20
+LRN00938,32,Design,Theoretical,14.4,Certification,Beginner,2024-05-03
+LRN00939,21,Business,Mixed,6.9,Skill Enhancement,Advanced,2025-05-30
+LRN00940,18,Programming,Mixed,1.0,Certification,Advanced,2025-09-05
+LRN00941,28,Cloud,Theoretical,5.2,Certification,Advanced,2025-04-13
+LRN00942,23,Design,Visual,12.7,Promotion,Intermediate,2024-11-19
+LRN00943,30,Programming,Visual,17.6,Skill Enhancement,Intermediate,2024-02-22
+LRN00944,31,Programming,Theoretical,1.0,Personal Interest,Advanced,2025-01-16
+LRN00945,22,Data Science,Theoretical,3.3,Skill Enhancement,Intermediate,2024-06-13
+LRN00946,23,Cloud,Theoretical,2.7,Personal Interest,Beginner,2024-05-16
+LRN00947,29,Design,Hands-on,10.2,Certification,Advanced,2024-09-22
+LRN00948,26,Business,Mixed,3.8,Personal Interest,Intermediate,2025-04-07
+LRN00949,27,Cloud,Hands-on,12.9,Promotion,Advanced,2025-02-16
+LRN00950,42,Programming,Theoretical,3.4,Skill Enhancement,Advanced,2024-07-23
+LRN00951,25,Design,Hands-on,6.1,Skill Enhancement,Advanced,2025-05-08
+LRN00952,25,Design,Visual,12.4,Skill Enhancement,Intermediate,2024-05-15
+LRN00953,34,Data Science,Theoretical,3.3,Certification,Intermediate,2025-01-25
+LRN00954,45,Cloud,Visual,3.1,Certification,Beginner,2025-04-24
+LRN00955,35,Programming,Hands-on,8.7,Personal Interest,Intermediate,2024-01-03
+LRN00956,27,Programming,Mixed,1.6,Personal Interest,Intermediate,2024-10-04
+LRN00957,30,Business,Theoretical,6.0,Personal Interest,Beginner,2024-08-13
+LRN00958,37,Programming,Theoretical,5.0,Promotion,Beginner,2024-02-26
+LRN00959,31,Cloud,Hands-on,6.1,Personal Interest,Intermediate,2024-11-10
+LRN00960,23,Cloud,Mixed,2.6,Certification,Beginner,2024-09-13
+LRN00961,29,Cloud,Theoretical,3.9,Certification,Advanced,2025-05-13
+LRN00962,39,Data Science,Theoretical,8.2,Certification,Advanced,2024-01-20
+LRN00963,30,Cloud,Mixed,4.1,Career Switch,Beginner,2025-04-26
+LRN00964,21,Business,Hands-on,6.0,Personal Interest,Intermediate,2023-12-10
+LRN00965,30,Business,Theoretical,2.9,Promotion,Advanced,2024-08-30
+LRN00966,23,Business,Mixed,1.7,Personal Interest,Advanced,2024-02-15
+LRN00967,26,Cloud,Mixed,5.0,Certification,Beginner,2025-04-03
+LRN00968,26,Programming,Hands-on,4.2,Skill Enhancement,Advanced,2025-01-24
+LRN00969,25,Programming,Hands-on,4.1,Skill Enhancement,Intermediate,2025-06-25
+LRN00970,39,Programming,Visual,10.9,Certification,Advanced,2025-08-14
+LRN00971,26,Programming,Mixed,5.6,Promotion,Beginner,2025-06-24
+LRN00972,21,Business,Hands-on,10.0,Career Switch,Advanced,2024-09-04
+LRN00973,24,Business,Hands-on,5.9,Skill Enhancement,Advanced,2024-12-22
+LRN00974,31,Design,Hands-on,5.0,Skill Enhancement,Advanced,2025-04-17
+LRN00975,29,Programming,Visual,9.4,Personal Interest,Intermediate,2024-06-08
+LRN00976,34,Design,Theoretical,7.5,Promotion,Intermediate,2025-05-23
+LRN00977,23,Cloud,Hands-on,4.8,Promotion,Advanced,2024-06-28
+LRN00978,23,Cloud,Mixed,11.1,Promotion,Advanced,2023-12-24
+LRN00979,35,Cloud,Theoretical,10.4,Personal Interest,Intermediate,2024-04-04
+LRN00980,24,Data Science,Visual,4.7,Certification,Intermediate,2024-09-29
+LRN00981,29,Design,Theoretical,3.4,Skill Enhancement,Intermediate,2025-09-28
+LRN00982,19,Programming,Hands-on,12.2,Personal Interest,Intermediate,2024-06-15
+LRN00983,18,Cloud,Visual,3.0,Certification,Intermediate,2024-12-06
+LRN00984,33,Programming,Mixed,4.6,Personal Interest,Advanced,2025-02-14
+LRN00985,18,Programming,Theoretical,2.4,Skill Enhancement,Intermediate,2024-03-13
+LRN00986,18,Design,Mixed,9.1,Skill Enhancement,Beginner,2023-12-17
+LRN00987,29,Design,Mixed,12.9,Skill Enhancement,Intermediate,2025-07-19
+LRN00988,36,Design,Hands-on,3.3,Promotion,Advanced,2025-01-03
+LRN00989,41,Business,Theoretical,4.5,Certification,Beginner,2025-07-30
+LRN00990,28,Data Science,Hands-on,5.2,Personal Interest,Beginner,2023-12-26
+LRN00991,30,Design,Mixed,6.2,Personal Interest,Advanced,2024-01-10
+LRN00992,31,Design,Hands-on,6.7,Personal Interest,Beginner,2025-05-06
+LRN00993,30,Programming,Visual,3.8,Skill Enhancement,Beginner,2024-12-24
+LRN00994,21,Business,Hands-on,5.2,Certification,Advanced,2025-09-30
+LRN00995,35,Data Science,Visual,4.7,Skill Enhancement,Beginner,2024-05-21
+LRN00996,29,Data Science,Theoretical,10.6,Certification,Intermediate,2024-05-16
+LRN00997,28,Business,Mixed,7.1,Career Switch,Intermediate,2025-07-18
+LRN00998,37,Data Science,Visual,5.0,Personal Interest,Intermediate,2025-07-27
+LRN00999,25,Cloud,Mixed,4.6,Skill Enhancement,Beginner,2025-01-25
+LRN01000,26,Design,Visual,11.9,Career Switch,Advanced,2025-01-27
+LRN01001,24,Design,Mixed,2.8,Skill Enhancement,Advanced,2025-09-04
+LRN01002,18,Data Science,Mixed,5.1,Career Switch,Advanced,2023-11-27
+LRN01003,42,Data Science,Mixed,4.3,Certification,Advanced,2024-11-23
+LRN01004,20,Business,Hands-on,9.2,Career Switch,Advanced,2024-03-25
+LRN01005,24,Cloud,Visual,6.6,Personal Interest,Intermediate,2023-12-25
+LRN01006,18,Business,Hands-on,14.5,Personal Interest,Beginner,2023-11-26
+LRN01007,31,Data Science,Visual,6.2,Skill Enhancement,Advanced,2024-07-21
+LRN01008,18,Business,Visual,19.4,Skill Enhancement,Intermediate,2024-02-18
+LRN01009,36,Programming,Mixed,1.7,Skill Enhancement,Beginner,2025-08-26
+LRN01010,28,Cloud,Mixed,7.4,Promotion,Beginner,2024-09-23
+LRN01011,29,Programming,Hands-on,2.5,Skill Enhancement,Intermediate,2025-07-07
+LRN01012,22,Cloud,Theoretical,5.7,Career Switch,Beginner,2024-10-09
+LRN01013,22,Data Science,Visual,4.7,Skill Enhancement,Intermediate,2025-02-12
+LRN01014,18,Business,Theoretical,3.0,Certification,Advanced,2025-03-25
+LRN01015,18,Programming,Mixed,4.8,Personal Interest,Advanced,2025-05-24
+LRN01016,31,Business,Visual,5.5,Certification,Advanced,2024-07-17
+LRN01017,32,Cloud,Theoretical,4.3,Promotion,Advanced,2024-05-25
+LRN01018,18,Data Science,Hands-on,6.5,Promotion,Intermediate,2024-11-11
+LRN01019,18,Design,Theoretical,2.3,Promotion,Advanced,2025-04-27
+LRN01020,25,Programming,Hands-on,5.3,Certification,Intermediate,2025-01-12
+LRN01021,37,Cloud,Theoretical,6.2,Certification,Beginner,2023-12-25
+LRN01022,18,Cloud,Mixed,6.3,Skill Enhancement,Beginner,2024-01-13
+LRN01023,28,Business,Hands-on,10.7,Personal Interest,Advanced,2025-08-05
+LRN01024,23,Cloud,Mixed,1.7,Skill Enhancement,Advanced,2023-11-09
+LRN01025,18,Design,Hands-on,5.1,Promotion,Intermediate,2024-11-12
+LRN01026,40,Design,Theoretical,1.3,Career Switch,Beginner,2024-04-21
+LRN01027,35,Programming,Visual,3.2,Skill Enhancement,Beginner,2025-09-06
+LRN01028,22,Data Science,Visual,5.9,Certification,Beginner,2025-06-29
+LRN01029,45,Programming,Mixed,5.6,Certification,Advanced,2024-01-09
+LRN01030,31,Cloud,Theoretical,6.0,Career Switch,Intermediate,2025-02-24
+LRN01031,19,Cloud,Visual,12.6,Career Switch,Beginner,2023-12-07
+LRN01032,32,Design,Visual,5.0,Certification,Advanced,2025-08-07
+LRN01033,20,Business,Mixed,4.2,Personal Interest,Advanced,2025-08-10
+LRN01034,32,Cloud,Theoretical,8.2,Promotion,Beginner,2025-07-28
+LRN01035,25,Business,Visual,1.2,Skill Enhancement,Advanced,2025-07-01
+LRN01036,23,Programming,Hands-on,2.4,Promotion,Intermediate,2025-03-28
+LRN01037,35,Data Science,Hands-on,1.7,Promotion,Advanced,2025-04-08
+LRN01038,18,Cloud,Mixed,1.1,Career Switch,Advanced,2024-02-26
+LRN01039,27,Business,Mixed,2.1,Certification,Beginner,2025-04-21
+LRN01040,18,Data Science,Mixed,10.1,Promotion,Intermediate,2023-12-05
+LRN01041,35,Data Science,Mixed,6.2,Personal Interest,Intermediate,2024-03-24
+LRN01042,23,Business,Theoretical,11.9,Certification,Advanced,2024-07-25
+LRN01043,32,Business,Hands-on,4.9,Promotion,Advanced,2025-03-03
+LRN01044,37,Design,Theoretical,10.3,Personal Interest,Intermediate,2024-07-07
+LRN01045,18,Design,Visual,4.2,Career Switch,Intermediate,2024-02-06
+LRN01046,22,Programming,Hands-on,4.1,Personal Interest,Beginner,2024-12-05
+LRN01047,18,Data Science,Hands-on,3.6,Personal Interest,Beginner,2024-12-30
+LRN01048,18,Cloud,Hands-on,3.5,Career Switch,Beginner,2024-06-24
+LRN01049,33,Business,Hands-on,2.4,Skill Enhancement,Intermediate,2024-09-28
+LRN01050,20,Cloud,Hands-on,7.1,Skill Enhancement,Intermediate,2024-12-05
+LRN01051,31,Programming,Mixed,11.3,Promotion,Beginner,2025-07-21
+LRN01052,19,Business,Mixed,5.9,Skill Enhancement,Intermediate,2024-02-26
+LRN01053,25,Programming,Theoretical,1.5,Career Switch,Advanced,2024-02-26
+LRN01054,20,Design,Visual,3.2,Career Switch,Intermediate,2024-10-17
+LRN01055,36,Design,Mixed,4.0,Career Switch,Beginner,2023-12-10
+LRN01056,18,Cloud,Visual,7.9,Certification,Beginner,2024-11-30
+LRN01057,18,Cloud,Visual,6.8,Personal Interest,Advanced,2024-03-09
+LRN01058,40,Data Science,Theoretical,1.0,Promotion,Advanced,2025-02-24
+LRN01059,25,Data Science,Visual,5.9,Certification,Intermediate,2024-02-07
+LRN01060,35,Cloud,Visual,3.5,Skill Enhancement,Intermediate,2024-12-16
+LRN01061,28,Design,Hands-on,1.1,Skill Enhancement,Intermediate,2025-07-16
+LRN01062,27,Design,Visual,1.1,Promotion,Intermediate,2025-01-13
+LRN01063,28,Programming,Mixed,2.5,Promotion,Intermediate,2025-05-28
+LRN01064,27,Data Science,Mixed,6.8,Promotion,Beginner,2024-05-27
+LRN01065,33,Design,Hands-on,7.7,Promotion,Advanced,2024-04-20
+LRN01066,32,Data Science,Hands-on,6.4,Career Switch,Intermediate,2024-07-25
+LRN01067,21,Business,Visual,14.0,Career Switch,Advanced,2024-08-11
+LRN01068,35,Design,Theoretical,3.8,Personal Interest,Beginner,2024-11-14
+LRN01069,28,Business,Visual,4.9,Personal Interest,Beginner,2024-10-15
+LRN01070,21,Cloud,Mixed,2.5,Promotion,Beginner,2024-07-14
+LRN01071,29,Programming,Hands-on,3.9,Skill Enhancement,Advanced,2024-09-21
+LRN01072,31,Data Science,Visual,1.0,Career Switch,Advanced,2025-08-14
+LRN01073,44,Data Science,Hands-on,8.8,Personal Interest,Beginner,2024-10-22
+LRN01074,30,Programming,Theoretical,3.4,Certification,Intermediate,2025-09-15
+LRN01075,29,Business,Hands-on,4.1,Promotion,Beginner,2025-03-14
+LRN01076,23,Cloud,Theoretical,5.8,Promotion,Intermediate,2024-01-10
+LRN01077,32,Data Science,Visual,3.5,Certification,Advanced,2023-11-29
+LRN01078,30,Cloud,Visual,8.6,Personal Interest,Beginner,2025-08-08
+LRN01079,18,Business,Hands-on,6.5,Promotion,Intermediate,2025-08-15
+LRN01080,26,Design,Visual,9.7,Career Switch,Intermediate,2023-12-02
+LRN01081,35,Business,Theoretical,11.0,Career Switch,Beginner,2024-12-13
+LRN01082,38,Design,Hands-on,4.9,Certification,Advanced,2025-06-29
+LRN01083,34,Business,Mixed,9.7,Promotion,Advanced,2025-07-10
+LRN01084,24,Data Science,Hands-on,3.4,Promotion,Intermediate,2024-03-13
+LRN01085,27,Programming,Visual,8.3,Skill Enhancement,Advanced,2024-11-30
+LRN01086,27,Business,Mixed,6.2,Certification,Advanced,2025-05-01
+LRN01087,18,Programming,Theoretical,5.1,Personal Interest,Intermediate,2024-01-07
+LRN01088,29,Business,Hands-on,11.2,Promotion,Intermediate,2025-08-06
+LRN01089,19,Business,Mixed,2.7,Career Switch,Advanced,2024-12-26
+LRN01090,35,Data Science,Hands-on,6.6,Personal Interest,Intermediate,2023-12-06
+LRN01091,21,Data Science,Visual,9.3,Certification,Advanced,2023-11-14
+LRN01092,30,Cloud,Hands-on,1.4,Certification,Beginner,2024-03-01
+LRN01093,18,Data Science,Mixed,9.3,Personal Interest,Advanced,2024-11-05
+LRN01094,32,Design,Hands-on,10.2,Skill Enhancement,Advanced,2025-05-20
+LRN01095,25,Cloud,Hands-on,6.4,Skill Enhancement,Intermediate,2024-04-20
+LRN01096,18,Data Science,Mixed,7.3,Skill Enhancement,Advanced,2024-03-09
+LRN01097,33,Data Science,Theoretical,4.7,Career Switch,Advanced,2024-04-11
+LRN01098,37,Programming,Hands-on,2.9,Personal Interest,Beginner,2025-09-08
+LRN01099,28,Business,Mixed,2.2,Certification,Intermediate,2024-07-12
+LRN01100,30,Business,Hands-on,10.0,Skill Enhancement,Beginner,2025-05-27
+LRN01101,30,Data Science,Visual,5.7,Promotion,Advanced,2025-01-08
+LRN01102,23,Cloud,Hands-on,2.4,Promotion,Beginner,2025-02-14
+LRN01103,18,Programming,Theoretical,8.2,Career Switch,Advanced,2024-06-07
+LRN01104,39,Data Science,Mixed,8.6,Personal Interest,Beginner,2024-09-07
+LRN01105,37,Design,Mixed,3.0,Skill Enhancement,Beginner,2025-03-25
+LRN01106,25,Data Science,Visual,8.6,Certification,Beginner,2025-01-05
+LRN01107,31,Design,Hands-on,2.4,Skill Enhancement,Beginner,2025-08-02
+LRN01108,31,Data Science,Mixed,6.5,Promotion,Intermediate,2024-11-10
+LRN01109,38,Design,Hands-on,8.0,Certification,Intermediate,2025-08-27
+LRN01110,35,Cloud,Mixed,4.0,Personal Interest,Intermediate,2024-01-21
+LRN01111,34,Cloud,Visual,6.0,Promotion,Beginner,2024-07-03
+LRN01112,27,Design,Visual,2.3,Skill Enhancement,Advanced,2024-04-06
+LRN01113,30,Design,Visual,3.8,Promotion,Intermediate,2024-04-28
+LRN01114,22,Programming,Hands-on,6.8,Personal Interest,Intermediate,2024-08-27
+LRN01115,23,Business,Theoretical,2.2,Certification,Beginner,2024-08-02
+LRN01116,33,Business,Visual,8.6,Promotion,Beginner,2024-06-21
+LRN01117,41,Design,Visual,3.8,Promotion,Beginner,2025-04-07
+LRN01118,18,Cloud,Hands-on,2.8,Certification,Intermediate,2024-11-11
+LRN01119,18,Design,Visual,6.4,Skill Enhancement,Intermediate,2024-02-12
+LRN01120,26,Data Science,Mixed,7.9,Career Switch,Intermediate,2024-11-11
+LRN01121,30,Data Science,Visual,5.2,Career Switch,Beginner,2024-07-05
+LRN01122,31,Business,Visual,2.3,Promotion,Advanced,2024-09-10
+LRN01123,36,Cloud,Hands-on,3.7,Certification,Advanced,2024-09-14
+LRN01124,25,Programming,Hands-on,4.8,Personal Interest,Advanced,2023-12-03
+LRN01125,20,Data Science,Hands-on,2.4,Skill Enhancement,Beginner,2025-08-17
+LRN01126,32,Design,Theoretical,3.9,Personal Interest,Advanced,2024-07-09
+LRN01127,36,Business,Hands-on,14.7,Career Switch,Beginner,2025-03-15
+LRN01128,31,Programming,Theoretical,2.0,Career Switch,Intermediate,2024-05-17
+LRN01129,34,Design,Visual,9.2,Promotion,Intermediate,2025-02-07
+LRN01130,27,Data Science,Mixed,7.1,Certification,Intermediate,2024-07-13
+LRN01131,20,Programming,Visual,2.5,Skill Enhancement,Advanced,2024-12-28
+LRN01132,34,Cloud,Hands-on,6.1,Career Switch,Beginner,2025-05-10
+LRN01133,25,Programming,Theoretical,12.0,Career Switch,Beginner,2025-09-05
+LRN01134,18,Cloud,Theoretical,1.3,Personal Interest,Beginner,2025-08-19
+LRN01135,23,Programming,Mixed,5.8,Skill Enhancement,Beginner,2023-11-20
+LRN01136,27,Business,Hands-on,5.0,Certification,Advanced,2024-02-24
+LRN01137,27,Business,Visual,6.1,Career Switch,Intermediate,2024-11-12
+LRN01138,33,Business,Mixed,8.7,Career Switch,Intermediate,2024-03-24
+LRN01139,20,Programming,Theoretical,11.6,Certification,Beginner,2025-06-06
+LRN01140,18,Business,Theoretical,3.8,Promotion,Intermediate,2024-04-19
+LRN01141,33,Data Science,Hands-on,12.6,Promotion,Beginner,2025-06-19
+LRN01142,18,Cloud,Visual,3.7,Certification,Advanced,2024-01-28
+LRN01143,34,Business,Mixed,2.2,Promotion,Intermediate,2025-01-16
+LRN01144,28,Cloud,Theoretical,8.7,Skill Enhancement,Advanced,2024-03-11
+LRN01145,23,Design,Mixed,4.4,Certification,Beginner,2024-01-23
+LRN01146,24,Data Science,Theoretical,10.1,Skill Enhancement,Beginner,2025-06-09
+LRN01147,18,Programming,Mixed,13.8,Career Switch,Advanced,2025-03-10
+LRN01148,25,Cloud,Mixed,4.8,Certification,Beginner,2024-11-01
+LRN01149,29,Business,Hands-on,2.7,Career Switch,Advanced,2025-03-16
+LRN01150,37,Business,Theoretical,5.3,Career Switch,Intermediate,2024-12-05
+LRN01151,36,Cloud,Theoretical,8.9,Career Switch,Beginner,2024-11-01
+LRN01152,38,Business,Mixed,2.0,Promotion,Advanced,2025-09-09
+LRN01153,32,Data Science,Hands-on,11.0,Personal Interest,Intermediate,2023-11-20
+LRN01154,27,Design,Mixed,6.8,Career Switch,Advanced,2025-05-22
+LRN01155,38,Design,Hands-on,13.2,Certification,Advanced,2024-10-30
+LRN01156,18,Design,Mixed,2.5,Career Switch,Advanced,2024-12-06
+LRN01157,25,Cloud,Theoretical,3.3,Promotion,Advanced,2025-09-19
+LRN01158,22,Data Science,Theoretical,5.6,Personal Interest,Beginner,2025-05-09
+LRN01159,18,Business,Visual,4.5,Personal Interest,Intermediate,2024-01-06
+LRN01160,36,Cloud,Hands-on,5.5,Promotion,Advanced,2024-09-05
+LRN01161,25,Data Science,Visual,4.6,Personal Interest,Advanced,2024-11-20
+LRN01162,28,Programming,Theoretical,4.0,Certification,Beginner,2024-05-18
+LRN01163,41,Data Science,Theoretical,7.8,Certification,Intermediate,2025-03-01
+LRN01164,23,Cloud,Theoretical,3.4,Skill Enhancement,Beginner,2024-09-20
+LRN01165,22,Programming,Hands-on,4.4,Career Switch,Intermediate,2024-05-08
+LRN01166,37,Programming,Mixed,6.7,Promotion,Beginner,2025-03-28
+LRN01167,34,Business,Mixed,1.9,Promotion,Intermediate,2024-11-07
+LRN01168,27,Data Science,Visual,1.1,Promotion,Advanced,2025-05-26
+LRN01169,18,Data Science,Visual,13.3,Certification,Intermediate,2024-04-22
+LRN01170,24,Programming,Visual,2.0,Personal Interest,Beginner,2024-02-08
+LRN01171,27,Programming,Theoretical,6.3,Certification,Beginner,2025-06-25
+LRN01172,26,Cloud,Theoretical,5.5,Career Switch,Advanced,2024-11-23
+LRN01173,32,Data Science,Theoretical,2.5,Skill Enhancement,Beginner,2024-12-19
+LRN01174,28,Business,Theoretical,6.2,Certification,Advanced,2025-06-10
+LRN01175,21,Business,Hands-on,3.4,Skill Enhancement,Intermediate,2025-06-13
+LRN01176,33,Programming,Visual,8.0,Skill Enhancement,Advanced,2024-10-15
+LRN01177,26,Cloud,Theoretical,7.4,Personal Interest,Beginner,2024-12-22
+LRN01178,18,Cloud,Hands-on,7.8,Skill Enhancement,Beginner,2024-11-24
+LRN01179,18,Cloud,Theoretical,2.2,Promotion,Intermediate,2025-08-18
+LRN01180,33,Data Science,Visual,7.9,Certification,Advanced,2025-08-18
+LRN01181,36,Programming,Mixed,2.3,Career Switch,Beginner,2024-07-29
+LRN01182,21,Design,Hands-on,11.7,Promotion,Advanced,2024-01-03
+LRN01183,22,Design,Theoretical,3.4,Personal Interest,Intermediate,2025-03-20
+LRN01184,22,Cloud,Visual,1.9,Certification,Advanced,2025-05-27
+LRN01185,24,Programming,Mixed,2.2,Career Switch,Intermediate,2024-11-25
+LRN01186,18,Design,Mixed,9.1,Skill Enhancement,Beginner,2025-05-14
+LRN01187,32,Cloud,Theoretical,6.9,Personal Interest,Intermediate,2025-04-04
+LRN01188,23,Business,Theoretical,5.8,Certification,Intermediate,2025-09-08
+LRN01189,24,Programming,Mixed,10.7,Career Switch,Intermediate,2024-06-05
+LRN01190,22,Design,Hands-on,7.4,Personal Interest,Intermediate,2024-01-29
+LRN01191,26,Cloud,Hands-on,5.0,Promotion,Beginner,2024-08-19
+LRN01192,40,Programming,Theoretical,3.6,Promotion,Advanced,2025-07-28
+LRN01193,32,Business,Mixed,4.0,Certification,Advanced,2024-08-11
+LRN01194,34,Data Science,Hands-on,17.6,Promotion,Beginner,2024-06-02
+LRN01195,37,Design,Visual,5.5,Personal Interest,Beginner,2024-02-11
+LRN01196,25,Design,Mixed,9.3,Promotion,Intermediate,2024-03-30
+LRN01197,32,Data Science,Hands-on,1.1,Career Switch,Advanced,2024-02-29
+LRN01198,44,Design,Visual,6.1,Promotion,Advanced,2024-06-21
+LRN01199,24,Business,Visual,5.1,Certification,Beginner,2024-11-27
+LRN01200,40,Design,Visual,2.6,Promotion,Beginner,2024-02-06
+LRN01201,31,Design,Theoretical,2.5,Certification,Advanced,2023-12-02
+LRN01202,30,Programming,Visual,3.1,Skill Enhancement,Beginner,2024-02-22
+LRN01203,28,Programming,Hands-on,8.3,Skill Enhancement,Intermediate,2024-04-12
+LRN01204,23,Business,Mixed,5.3,Promotion,Advanced,2024-07-08
+LRN01205,31,Data Science,Hands-on,3.7,Personal Interest,Intermediate,2024-03-04
+LRN01206,31,Business,Mixed,3.0,Personal Interest,Beginner,2024-02-20
+LRN01207,28,Programming,Mixed,7.5,Skill Enhancement,Intermediate,2025-08-06
+LRN01208,25,Business,Visual,3.8,Career Switch,Advanced,2024-03-14
+LRN01209,30,Business,Visual,10.2,Personal Interest,Beginner,2025-02-10
+LRN01210,23,Design,Mixed,2.2,Personal Interest,Advanced,2024-09-12
+LRN01211,33,Design,Mixed,6.2,Certification,Advanced,2025-03-06
+LRN01212,36,Data Science,Mixed,2.3,Skill Enhancement,Beginner,2024-03-19
+LRN01213,25,Design,Theoretical,4.1,Certification,Beginner,2024-12-17
+LRN01214,30,Data Science,Hands-on,7.7,Career Switch,Beginner,2023-12-15
+LRN01215,28,Programming,Hands-on,9.7,Certification,Advanced,2024-07-18
+LRN01216,25,Data Science,Visual,2.5,Skill Enhancement,Advanced,2024-08-09
+LRN01217,18,Design,Mixed,4.3,Promotion,Beginner,2024-06-30
+LRN01218,37,Cloud,Mixed,20.3,Promotion,Intermediate,2024-09-10
+LRN01219,25,Business,Hands-on,5.1,Skill Enhancement,Intermediate,2024-01-28
+LRN01220,39,Programming,Mixed,4.5,Skill Enhancement,Advanced,2024-05-13
+LRN01221,24,Business,Mixed,2.9,Promotion,Advanced,2024-09-28
+LRN01222,23,Programming,Visual,7.1,Promotion,Intermediate,2024-09-26
+LRN01223,18,Programming,Mixed,3.2,Career Switch,Beginner,2024-04-17
+LRN01224,18,Business,Mixed,2.0,Promotion,Beginner,2024-04-21
+LRN01225,22,Cloud,Visual,12.4,Skill Enhancement,Intermediate,2024-01-02
+LRN01226,25,Programming,Theoretical,11.5,Promotion,Beginner,2024-10-22
+LRN01227,24,Cloud,Visual,2.0,Certification,Intermediate,2024-05-02
+LRN01228,30,Design,Theoretical,6.4,Certification,Intermediate,2024-12-11
+LRN01229,26,Business,Hands-on,2.8,Career Switch,Advanced,2024-02-05
+LRN01230,37,Business,Theoretical,4.8,Career Switch,Advanced,2024-06-11
+LRN01231,26,Cloud,Hands-on,7.9,Promotion,Beginner,2023-12-06
+LRN01232,26,Business,Visual,9.0,Personal Interest,Intermediate,2025-07-16
+LRN01233,19,Data Science,Visual,4.2,Personal Interest,Intermediate,2025-05-26
+LRN01234,29,Cloud,Theoretical,7.5,Personal Interest,Intermediate,2025-09-24
+LRN01235,32,Programming,Hands-on,3.1,Promotion,Advanced,2025-05-07
+LRN01236,24,Design,Theoretical,11.1,Skill Enhancement,Intermediate,2025-02-09
+LRN01237,22,Design,Hands-on,4.7,Promotion,Beginner,2024-10-22
+LRN01238,20,Programming,Hands-on,10.1,Promotion,Beginner,2024-05-19
+LRN01239,32,Design,Mixed,3.1,Skill Enhancement,Advanced,2024-07-15
+LRN01240,25,Data Science,Hands-on,3.7,Promotion,Advanced,2024-10-20
+LRN01241,31,Programming,Theoretical,4.6,Career Switch,Beginner,2025-04-20
+LRN01242,22,Design,Mixed,5.5,Certification,Intermediate,2024-06-08
+LRN01243,34,Cloud,Hands-on,9.1,Certification,Advanced,2024-09-04
+LRN01244,25,Design,Theoretical,6.3,Skill Enhancement,Advanced,2024-07-20
+LRN01245,22,Programming,Theoretical,2.0,Certification,Intermediate,2023-11-14
+LRN01246,18,Business,Visual,4.4,Career Switch,Advanced,2023-12-26
+LRN01247,29,Business,Mixed,3.8,Promotion,Advanced,2025-01-02
+LRN01248,28,Business,Theoretical,10.6,Personal Interest,Beginner,2025-01-20
+LRN01249,18,Cloud,Mixed,6.1,Certification,Advanced,2025-02-03
+LRN01250,34,Cloud,Hands-on,1.5,Promotion,Intermediate,2023-11-15
+LRN01251,22,Data Science,Theoretical,9.2,Promotion,Beginner,2023-11-20
+LRN01252,31,Programming,Visual,3.1,Career Switch,Intermediate,2025-06-30
+LRN01253,21,Cloud,Visual,7.0,Certification,Intermediate,2025-02-26
+LRN01254,24,Business,Theoretical,7.1,Skill Enhancement,Beginner,2025-09-14
+LRN01255,21,Cloud,Visual,12.5,Career Switch,Advanced,2023-12-06
+LRN01256,22,Data Science,Visual,6.2,Career Switch,Beginner,2024-01-28
+LRN01257,21,Data Science,Mixed,2.3,Promotion,Beginner,2025-06-17
+LRN01258,27,Data Science,Theoretical,3.5,Personal Interest,Intermediate,2023-12-02
+LRN01259,18,Programming,Mixed,2.4,Personal Interest,Intermediate,2023-11-25
+LRN01260,24,Business,Theoretical,6.7,Skill Enhancement,Beginner,2024-12-29
+LRN01261,19,Programming,Mixed,4.2,Certification,Intermediate,2025-08-08
+LRN01262,20,Business,Theoretical,7.6,Skill Enhancement,Intermediate,2025-07-29
+LRN01263,30,Design,Hands-on,3.1,Promotion,Intermediate,2025-04-09
+LRN01264,38,Design,Visual,1.3,Skill Enhancement,Advanced,2024-07-24
+LRN01265,18,Data Science,Visual,6.1,Certification,Advanced,2025-01-16
+LRN01266,31,Programming,Visual,9.3,Career Switch,Beginner,2024-03-02
+LRN01267,41,Business,Mixed,6.4,Career Switch,Intermediate,2025-05-09
+LRN01268,18,Programming,Visual,6.6,Certification,Intermediate,2025-05-06
+LRN01269,24,Business,Mixed,6.2,Promotion,Beginner,2024-04-29
+LRN01270,23,Design,Mixed,2.7,Certification,Intermediate,2025-07-29
+LRN01271,36,Cloud,Hands-on,1.0,Career Switch,Intermediate,2024-06-02
+LRN01272,35,Programming,Theoretical,7.0,Personal Interest,Advanced,2024-12-02
+LRN01273,28,Design,Visual,10.4,Career Switch,Intermediate,2024-04-09
+LRN01274,25,Business,Visual,3.6,Certification,Intermediate,2023-12-15
+LRN01275,32,Data Science,Hands-on,4.7,Promotion,Beginner,2024-09-10
+LRN01276,45,Data Science,Theoretical,10.3,Certification,Beginner,2024-01-02
+LRN01277,22,Business,Mixed,2.1,Career Switch,Advanced,2024-07-17
+LRN01278,31,Data Science,Hands-on,4.0,Career Switch,Beginner,2025-09-13
+LRN01279,34,Cloud,Hands-on,9.2,Certification,Intermediate,2025-08-05
+LRN01280,36,Cloud,Theoretical,6.0,Certification,Advanced,2024-07-05
+LRN01281,27,Programming,Visual,7.2,Personal Interest,Beginner,2024-10-28
+LRN01282,32,Programming,Mixed,4.9,Career Switch,Beginner,2023-12-09
+LRN01283,22,Cloud,Mixed,4.6,Promotion,Beginner,2024-02-23
+LRN01284,36,Data Science,Visual,3.4,Career Switch,Advanced,2025-05-17
+LRN01285,40,Design,Visual,5.1,Certification,Advanced,2025-08-23
+LRN01286,18,Data Science,Hands-on,2.8,Career Switch,Beginner,2023-12-31
+LRN01287,39,Programming,Theoretical,5.7,Career Switch,Intermediate,2024-01-22
+LRN01288,44,Data Science,Visual,6.3,Career Switch,Beginner,2024-05-17
+LRN01289,30,Cloud,Hands-on,4.9,Career Switch,Beginner,2024-07-29
+LRN01290,42,Business,Mixed,9.2,Personal Interest,Beginner,2023-11-08
+LRN01291,29,Cloud,Hands-on,17.6,Personal Interest,Beginner,2025-08-23
+LRN01292,22,Cloud,Hands-on,4.6,Personal Interest,Beginner,2025-06-07
+LRN01293,27,Business,Hands-on,7.4,Certification,Beginner,2024-09-25
+LRN01294,30,Cloud,Hands-on,13.5,Certification,Beginner,2024-02-21
+LRN01295,34,Programming,Hands-on,3.0,Career Switch,Advanced,2024-01-20
+LRN01296,26,Design,Hands-on,2.0,Career Switch,Intermediate,2025-07-18
+LRN01297,33,Programming,Visual,2.2,Skill Enhancement,Beginner,2023-12-11
+LRN01298,25,Cloud,Theoretical,10.4,Certification,Advanced,2024-06-08
+LRN01299,40,Data Science,Hands-on,8.1,Skill Enhancement,Advanced,2025-01-04
+LRN01300,23,Cloud,Mixed,5.4,Certification,Beginner,2025-04-13
+LRN01301,18,Cloud,Visual,15.2,Promotion,Beginner,2024-05-15
+LRN01302,24,Cloud,Visual,6.0,Personal Interest,Intermediate,2024-08-06
+LRN01303,26,Programming,Hands-on,1.6,Skill Enhancement,Beginner,2024-04-14
+LRN01304,18,Programming,Theoretical,9.5,Promotion,Advanced,2025-02-26
+LRN01305,38,Design,Hands-on,5.4,Personal Interest,Beginner,2025-03-24
+LRN01306,32,Programming,Hands-on,4.7,Certification,Intermediate,2025-04-11
+LRN01307,33,Data Science,Visual,7.3,Career Switch,Advanced,2024-10-01
+LRN01308,29,Business,Hands-on,8.9,Certification,Intermediate,2024-10-31
+LRN01309,45,Cloud,Mixed,3.4,Career Switch,Beginner,2025-08-16
+LRN01310,21,Cloud,Hands-on,9.1,Skill Enhancement,Beginner,2024-05-30
+LRN01311,26,Cloud,Visual,3.1,Career Switch,Beginner,2024-07-10
+LRN01312,27,Cloud,Theoretical,1.3,Certification,Beginner,2023-11-15
+LRN01313,36,Business,Hands-on,4.7,Career Switch,Intermediate,2025-02-17
+LRN01314,26,Programming,Hands-on,6.3,Certification,Beginner,2024-09-19
+LRN01315,18,Data Science,Visual,2.4,Certification,Advanced,2024-05-30
+LRN01316,35,Programming,Mixed,4.2,Skill Enhancement,Beginner,2024-01-23
+LRN01317,25,Design,Hands-on,2.0,Certification,Intermediate,2025-05-22
+LRN01318,29,Design,Hands-on,6.1,Personal Interest,Intermediate,2025-03-15
+LRN01319,27,Business,Hands-on,6.3,Career Switch,Advanced,2024-03-05
+LRN01320,24,Programming,Theoretical,1.6,Skill Enhancement,Beginner,2024-06-19
+LRN01321,32,Design,Mixed,1.7,Skill Enhancement,Intermediate,2025-02-25
+LRN01322,40,Business,Hands-on,5.6,Promotion,Beginner,2024-02-25
+LRN01323,20,Cloud,Hands-on,5.8,Career Switch,Intermediate,2024-04-22
+LRN01324,18,Design,Hands-on,6.1,Promotion,Intermediate,2024-06-22
+LRN01325,35,Business,Visual,3.3,Certification,Advanced,2025-01-29
+LRN01326,27,Data Science,Theoretical,1.3,Certification,Advanced,2025-02-23
+LRN01327,22,Cloud,Hands-on,7.0,Promotion,Beginner,2024-08-07
+LRN01328,18,Programming,Visual,5.0,Certification,Advanced,2024-05-10
+LRN01329,25,Programming,Mixed,6.4,Promotion,Intermediate,2024-06-05
+LRN01330,29,Programming,Mixed,3.2,Certification,Beginner,2025-07-15
+LRN01331,28,Cloud,Visual,8.0,Certification,Beginner,2025-05-26
+LRN01332,37,Business,Theoretical,6.2,Skill Enhancement,Advanced,2025-07-08
+LRN01333,28,Programming,Mixed,5.4,Personal Interest,Beginner,2024-06-25
+LRN01334,34,Cloud,Visual,2.5,Certification,Intermediate,2025-05-20
+LRN01335,28,Design,Hands-on,17.2,Personal Interest,Advanced,2024-06-20
+LRN01336,25,Programming,Visual,5.2,Certification,Advanced,2024-11-02
+LRN01337,18,Cloud,Visual,2.2,Personal Interest,Intermediate,2025-01-05
+LRN01338,18,Cloud,Hands-on,1.7,Career Switch,Advanced,2024-10-30
+LRN01339,34,Programming,Theoretical,4.3,Career Switch,Beginner,2024-09-11
+LRN01340,20,Business,Mixed,7.9,Promotion,Beginner,2024-09-29
+LRN01341,22,Business,Hands-on,5.2,Promotion,Advanced,2025-08-01
+LRN01342,21,Cloud,Hands-on,5.8,Skill Enhancement,Intermediate,2025-02-06
+LRN01343,28,Cloud,Visual,4.3,Certification,Advanced,2024-02-22
+LRN01344,29,Data Science,Hands-on,6.7,Personal Interest,Intermediate,2025-01-08
+LRN01345,31,Cloud,Mixed,7.5,Personal Interest,Beginner,2025-08-05
+LRN01346,24,Business,Theoretical,3.4,Certification,Intermediate,2024-05-13
+LRN01347,22,Cloud,Visual,4.1,Certification,Advanced,2024-04-12
+LRN01348,36,Cloud,Theoretical,8.9,Certification,Advanced,2024-09-27
+LRN01349,28,Programming,Hands-on,8.4,Certification,Beginner,2025-07-18
+LRN01350,18,Design,Hands-on,16.8,Personal Interest,Beginner,2025-06-19
+LRN01351,21,Data Science,Theoretical,5.2,Career Switch,Advanced,2025-05-10
+LRN01352,18,Design,Hands-on,5.8,Skill Enhancement,Advanced,2024-01-05
+LRN01353,51,Programming,Theoretical,1.2,Certification,Advanced,2024-04-02
+LRN01354,22,Data Science,Mixed,5.0,Personal Interest,Intermediate,2024-07-11
+LRN01355,28,Programming,Theoretical,2.9,Skill Enhancement,Beginner,2025-09-16
+LRN01356,39,Data Science,Theoretical,3.2,Certification,Advanced,2024-10-22
+LRN01357,18,Business,Mixed,2.4,Promotion,Advanced,2024-04-14
+LRN01358,30,Cloud,Mixed,7.3,Certification,Intermediate,2024-03-07
+LRN01359,42,Data Science,Theoretical,12.2,Skill Enhancement,Intermediate,2025-02-18
+LRN01360,18,Design,Theoretical,6.1,Personal Interest,Beginner,2025-05-10
+LRN01361,24,Business,Theoretical,3.2,Certification,Beginner,2024-01-14
+LRN01362,18,Data Science,Theoretical,4.2,Skill Enhancement,Beginner,2023-11-26
+LRN01363,29,Data Science,Hands-on,3.1,Skill Enhancement,Beginner,2025-08-27
+LRN01364,18,Business,Hands-on,7.4,Certification,Intermediate,2024-09-25
+LRN01365,23,Data Science,Hands-on,2.9,Promotion,Advanced,2025-09-03
+LRN01366,18,Business,Theoretical,3.0,Skill Enhancement,Intermediate,2024-07-06
+LRN01367,35,Cloud,Hands-on,6.2,Promotion,Intermediate,2025-06-06
+LRN01368,26,Programming,Mixed,17.5,Certification,Beginner,2024-06-26
+LRN01369,34,Business,Hands-on,5.7,Career Switch,Advanced,2024-03-28
+LRN01370,39,Cloud,Theoretical,5.7,Personal Interest,Intermediate,2024-12-16
+LRN01371,19,Cloud,Hands-on,8.2,Promotion,Advanced,2024-07-13
+LRN01372,24,Business,Visual,6.3,Certification,Beginner,2025-05-19
+LRN01373,23,Cloud,Visual,5.4,Personal Interest,Beginner,2024-08-23
+LRN01374,18,Cloud,Hands-on,4.6,Certification,Intermediate,2025-07-06
+LRN01375,20,Business,Visual,10.9,Promotion,Advanced,2025-03-23
+LRN01376,29,Cloud,Hands-on,7.5,Personal Interest,Beginner,2025-09-15
+LRN01377,35,Programming,Mixed,3.3,Career Switch,Advanced,2024-08-31
+LRN01378,41,Data Science,Mixed,6.4,Personal Interest,Advanced,2024-01-28
+LRN01379,44,Cloud,Visual,7.9,Personal Interest,Intermediate,2025-05-10
+LRN01380,25,Design,Theoretical,5.0,Certification,Intermediate,2025-09-26
+LRN01381,21,Business,Theoretical,5.2,Personal Interest,Intermediate,2024-07-09
+LRN01382,39,Cloud,Visual,3.6,Skill Enhancement,Advanced,2024-07-11
+LRN01383,18,Design,Mixed,6.4,Personal Interest,Beginner,2024-07-31
+LRN01384,33,Design,Hands-on,2.8,Promotion,Advanced,2025-07-12
+LRN01385,23,Data Science,Hands-on,1.7,Personal Interest,Intermediate,2024-04-19
+LRN01386,23,Business,Visual,4.1,Promotion,Intermediate,2025-07-10
+LRN01387,22,Programming,Mixed,1.1,Personal Interest,Intermediate,2025-04-12
+LRN01388,22,Cloud,Mixed,6.3,Promotion,Beginner,2025-03-18
+LRN01389,31,Data Science,Mixed,3.5,Personal Interest,Advanced,2024-05-24
+LRN01390,31,Programming,Theoretical,9.8,Promotion,Intermediate,2024-05-21
+LRN01391,23,Cloud,Mixed,6.6,Skill Enhancement,Beginner,2025-10-06
+LRN01392,35,Data Science,Theoretical,10.8,Personal Interest,Advanced,2023-12-27
+LRN01393,48,Design,Visual,7.2,Personal Interest,Intermediate,2025-04-08
+LRN01394,24,Design,Hands-on,1.8,Career Switch,Beginner,2024-12-29
+LRN01395,18,Design,Visual,7.9,Promotion,Advanced,2024-10-03
+LRN01396,19,Cloud,Mixed,12.6,Promotion,Intermediate,2025-01-17
+LRN01397,31,Design,Visual,9.9,Personal Interest,Advanced,2024-02-27
+LRN01398,23,Programming,Theoretical,12.3,Skill Enhancement,Advanced,2025-08-10
+LRN01399,31,Data Science,Theoretical,4.2,Certification,Advanced,2025-05-23
+LRN01400,18,Business,Hands-on,5.6,Career Switch,Intermediate,2024-10-04
+LRN01401,34,Design,Theoretical,8.2,Career Switch,Intermediate,2024-12-14
+LRN01402,20,Cloud,Visual,4.5,Promotion,Beginner,2024-01-04
+LRN01403,36,Data Science,Visual,1.8,Promotion,Beginner,2024-03-31
+LRN01404,25,Business,Theoretical,4.5,Personal Interest,Intermediate,2024-10-02
+LRN01405,37,Programming,Theoretical,4.5,Skill Enhancement,Beginner,2025-05-21
+LRN01406,22,Cloud,Theoretical,1.8,Personal Interest,Intermediate,2024-08-13
+LRN01407,26,Business,Hands-on,2.7,Career Switch,Beginner,2025-05-03
+LRN01408,24,Cloud,Hands-on,9.7,Skill Enhancement,Advanced,2024-01-19
+LRN01409,29,Cloud,Visual,1.6,Certification,Intermediate,2025-07-22
+LRN01410,22,Programming,Hands-on,3.8,Career Switch,Intermediate,2024-10-17
+LRN01411,25,Business,Theoretical,10.4,Skill Enhancement,Intermediate,2024-02-05
+LRN01412,26,Cloud,Theoretical,3.2,Skill Enhancement,Advanced,2024-12-01
+LRN01413,24,Programming,Visual,8.9,Skill Enhancement,Beginner,2025-05-16
+LRN01414,22,Data Science,Theoretical,4.3,Skill Enhancement,Beginner,2025-05-28
+LRN01415,34,Programming,Mixed,6.5,Career Switch,Beginner,2025-09-19
+LRN01416,35,Design,Mixed,1.5,Career Switch,Beginner,2025-06-20
+LRN01417,23,Programming,Visual,6.2,Certification,Beginner,2025-01-22
+LRN01418,27,Programming,Visual,4.5,Personal Interest,Advanced,2025-09-28
+LRN01419,18,Programming,Visual,10.0,Promotion,Beginner,2024-02-15
+LRN01420,20,Data Science,Hands-on,5.9,Personal Interest,Beginner,2025-07-08
+LRN01421,37,Data Science,Theoretical,3.1,Promotion,Intermediate,2024-10-13
+LRN01422,18,Data Science,Hands-on,4.5,Promotion,Advanced,2025-07-31
+LRN01423,28,Programming,Visual,2.8,Promotion,Beginner,2025-03-26
+LRN01424,26,Business,Hands-on,4.3,Promotion,Beginner,2025-06-29
+LRN01425,38,Data Science,Mixed,4.4,Personal Interest,Advanced,2024-02-13
+LRN01426,18,Data Science,Mixed,3.1,Career Switch,Beginner,2024-10-10
+LRN01427,19,Design,Mixed,5.1,Skill Enhancement,Advanced,2025-02-17
+LRN01428,26,Design,Visual,14.0,Personal Interest,Beginner,2024-06-18
+LRN01429,32,Programming,Hands-on,3.7,Certification,Intermediate,2024-12-17
+LRN01430,33,Cloud,Visual,2.5,Career Switch,Intermediate,2024-05-21
+LRN01431,34,Programming,Mixed,5.4,Personal Interest,Intermediate,2024-02-02
+LRN01432,24,Business,Mixed,2.6,Skill Enhancement,Advanced,2024-08-17
+LRN01433,18,Business,Mixed,1.0,Skill Enhancement,Beginner,2024-06-08
+LRN01434,36,Business,Hands-on,1.8,Career Switch,Advanced,2024-05-23
+LRN01435,29,Programming,Mixed,8.1,Certification,Advanced,2023-12-04
+LRN01436,28,Programming,Visual,3.1,Skill Enhancement,Intermediate,2024-08-24
+LRN01437,18,Cloud,Visual,4.1,Skill Enhancement,Beginner,2024-10-01
+LRN01438,28,Data Science,Theoretical,7.5,Skill Enhancement,Advanced,2024-08-21
+LRN01439,18,Programming,Hands-on,10.0,Certification,Advanced,2024-05-15
+LRN01440,18,Business,Theoretical,4.5,Certification,Intermediate,2024-06-08
+LRN01441,21,Cloud,Mixed,8.7,Certification,Advanced,2024-12-27
+LRN01442,22,Data Science,Mixed,2.6,Career Switch,Beginner,2025-01-25
+LRN01443,23,Design,Mixed,2.3,Skill Enhancement,Advanced,2025-05-24
+LRN01444,18,Programming,Visual,8.3,Career Switch,Beginner,2024-05-16
+LRN01445,26,Programming,Hands-on,7.8,Certification,Advanced,2023-11-13
+LRN01446,18,Business,Hands-on,4.1,Personal Interest,Advanced,2024-01-09
+LRN01447,28,Programming,Visual,4.3,Promotion,Intermediate,2024-06-18
+LRN01448,31,Data Science,Theoretical,6.6,Certification,Intermediate,2024-05-10
+LRN01449,30,Business,Theoretical,5.1,Promotion,Advanced,2025-09-20
+LRN01450,22,Programming,Mixed,2.8,Career Switch,Intermediate,2024-07-05
+LRN01451,34,Business,Mixed,4.6,Certification,Intermediate,2025-09-02
+LRN01452,33,Programming,Hands-on,4.9,Promotion,Advanced,2024-12-02
+LRN01453,30,Data Science,Mixed,1.9,Certification,Beginner,2024-11-23
+LRN01454,27,Design,Mixed,3.9,Career Switch,Advanced,2023-11-17
+LRN01455,35,Design,Mixed,11.3,Certification,Advanced,2025-05-01
+LRN01456,26,Cloud,Visual,3.0,Certification,Intermediate,2024-05-20
+LRN01457,27,Cloud,Mixed,7.8,Promotion,Advanced,2024-10-12
+LRN01458,27,Business,Theoretical,12.4,Career Switch,Beginner,2024-02-12
+LRN01459,30,Programming,Hands-on,6.2,Personal Interest,Intermediate,2024-02-19
+LRN01460,28,Programming,Theoretical,3.6,Certification,Beginner,2024-07-27
+LRN01461,25,Business,Theoretical,3.9,Certification,Intermediate,2025-08-12
+LRN01462,18,Data Science,Hands-on,2.1,Skill Enhancement,Advanced,2024-11-23
+LRN01463,24,Cloud,Visual,9.8,Career Switch,Intermediate,2025-06-13
+LRN01464,37,Business,Hands-on,9.5,Career Switch,Advanced,2024-11-09
+LRN01465,18,Programming,Mixed,8.2,Certification,Advanced,2024-04-29
+LRN01466,18,Design,Theoretical,9.2,Career Switch,Advanced,2024-06-15
+LRN01467,24,Cloud,Visual,9.4,Personal Interest,Intermediate,2024-03-03
+LRN01468,18,Design,Theoretical,4.9,Promotion,Beginner,2024-05-26
+LRN01469,26,Programming,Hands-on,3.5,Personal Interest,Intermediate,2024-05-12
+LRN01470,40,Business,Hands-on,4.1,Promotion,Intermediate,2024-10-01
+LRN01471,29,Design,Hands-on,2.0,Certification,Advanced,2025-07-23
+LRN01472,30,Cloud,Hands-on,6.3,Personal Interest,Intermediate,2025-08-21
+LRN01473,19,Business,Mixed,1.0,Skill Enhancement,Advanced,2025-07-06
+LRN01474,21,Cloud,Visual,3.2,Promotion,Intermediate,2025-01-02
+LRN01475,29,Programming,Mixed,8.1,Certification,Beginner,2024-10-18
+LRN01476,25,Programming,Theoretical,7.8,Promotion,Intermediate,2024-07-22
+LRN01477,32,Cloud,Theoretical,7.7,Skill Enhancement,Intermediate,2024-08-23
+LRN01478,32,Business,Mixed,1.0,Promotion,Beginner,2025-09-19
+LRN01479,22,Cloud,Hands-on,3.5,Promotion,Intermediate,2025-03-04
+LRN01480,23,Design,Theoretical,8.7,Promotion,Advanced,2024-07-21
+LRN01481,36,Cloud,Visual,5.4,Promotion,Beginner,2024-09-30
+LRN01482,26,Design,Hands-on,3.5,Skill Enhancement,Beginner,2024-12-05
+LRN01483,38,Design,Mixed,6.1,Personal Interest,Beginner,2023-12-29
+LRN01484,31,Data Science,Mixed,10.8,Personal Interest,Intermediate,2023-12-17
+LRN01485,19,Data Science,Theoretical,4.3,Promotion,Beginner,2024-08-19
+LRN01486,33,Data Science,Visual,1.6,Skill Enhancement,Beginner,2025-09-10
+LRN01487,37,Data Science,Theoretical,4.7,Certification,Intermediate,2024-03-14
+LRN01488,41,Design,Mixed,1.0,Career Switch,Beginner,2025-04-28
+LRN01489,24,Business,Hands-on,11.0,Career Switch,Intermediate,2024-12-28
+LRN01490,39,Cloud,Hands-on,3.3,Career Switch,Advanced,2024-05-29
+LRN01491,27,Programming,Visual,1.9,Career Switch,Intermediate,2024-01-31
+LRN01492,34,Business,Visual,5.5,Certification,Intermediate,2023-11-21
+LRN01493,19,Programming,Mixed,5.2,Skill Enhancement,Beginner,2025-06-16
+LRN01494,31,Cloud,Visual,4.6,Promotion,Advanced,2024-02-22
+LRN01495,28,Cloud,Theoretical,7.9,Certification,Beginner,2025-02-07
+LRN01496,24,Cloud,Visual,6.5,Personal Interest,Intermediate,2024-02-18
+LRN01497,27,Design,Hands-on,3.8,Certification,Beginner,2025-05-14
+LRN01498,24,Programming,Hands-on,2.4,Skill Enhancement,Intermediate,2024-07-15
+LRN01499,22,Design,Theoretical,6.0,Promotion,Beginner,2024-05-24
+LRN01500,30,Cloud,Theoretical,2.2,Career Switch,Intermediate,2024-03-29

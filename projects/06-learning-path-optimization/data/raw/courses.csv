@@ -1,0 +1,201 @@
+course_id,course_name,category,difficulty,duration_hours,num_modules,avg_rating,num_enrollments
+CRS0001,Mobile App Development Beginner,Programming,Beginner,8.7,5,3.81,332
+CRS0002,Mobile App Development Intermediate,Programming,Intermediate,32.7,18,4.41,114
+CRS0003,JavaScript Fundamentals Beginner,Programming,Beginner,9.3,5,4.53,228
+CRS0004,Mobile App Development Advanced,Programming,Advanced,63.7,36,4.52,676
+CRS0005,Python Basics Advanced,Programming,Advanced,52.2,30,4.59,107
+CRS0006,Python Basics Beginner,Programming,Beginner,5.3,3,3.28,64
+CRS0007,JavaScript Fundamentals Beginner,Programming,Beginner,14.7,12,3.92,65
+CRS0008,Web Development Beginner,Programming,Beginner,5.5,7,4.62,118
+CRS0009,JavaScript Fundamentals Advanced,Programming,Advanced,43.0,26,4.01,55
+CRS0010,C++ Programming Beginner,Programming,Beginner,8.6,8,3.17,79
+CRS0011,Web Development Intermediate,Programming,Intermediate,30.9,16,4.06,123
+CRS0012,Full Stack Development Beginner,Programming,Beginner,12.7,10,4.23,146
+CRS0013,Java Advanced Intermediate,Programming,Intermediate,27.7,15,4.77,55
+CRS0014,JavaScript Fundamentals Intermediate,Programming,Intermediate,19.0,10,3.86,64
+CRS0015,Python Basics Intermediate,Programming,Intermediate,28.5,15,3.87,94
+CRS0016,Java Advanced Intermediate,Programming,Intermediate,36.5,23,3.11,81
+CRS0017,Java Advanced Beginner,Programming,Beginner,14.4,11,3.24,71
+CRS0018,Web Development Beginner,Programming,Beginner,10.0,8,4.49,74
+CRS0019,Python Basics Advanced,Programming,Advanced,45.8,25,4.36,210
+CRS0020,Full Stack Development Advanced,Programming,Advanced,54.7,32,3.98,282
+CRS0021,Full Stack Development Intermediate,Programming,Intermediate,19.7,14,4.26,68
+CRS0022,JavaScript Fundamentals Advanced,Programming,Advanced,67.6,34,4.47,58
+CRS0023,Python Basics Advanced,Programming,Advanced,50.3,27,4.27,70
+CRS0024,Full Stack Development Intermediate,Programming,Intermediate,37.4,19,3.15,405
+CRS0025,Full Stack Development Beginner,Programming,Beginner,13.9,7,3.93,156
+CRS0026,C++ Programming Intermediate,Programming,Intermediate,19.0,13,3.92,69
+CRS0027,Mobile App Development Intermediate,Programming,Intermediate,33.7,18,3.94,85
+CRS0028,Java Advanced Intermediate,Programming,Intermediate,21.1,12,4.53,109
+CRS0029,Mobile App Development Intermediate,Programming,Intermediate,27.3,14,3.47,63
+CRS0030,Web Development Advanced,Programming,Advanced,76.6,40,3.89,309
+CRS0031,Web Development Advanced,Programming,Advanced,74.0,39,4.33,171
+CRS0032,JavaScript Fundamentals Intermediate,Programming,Intermediate,17.4,12,4.45,174
+CRS0033,Java Advanced Advanced,Programming,Advanced,72.4,41,4.23,109
+CRS0034,JavaScript Fundamentals Advanced,Programming,Advanced,68.1,37,4.26,56
+CRS0035,Full Stack Development Beginner,Programming,Beginner,10.8,7,3.52,52
+CRS0036,Full Stack Development Beginner,Programming,Beginner,13.2,9,4.5,56
+CRS0037,C++ Programming Intermediate,Programming,Intermediate,28.3,15,4.21,79
+CRS0038,JavaScript Fundamentals Advanced,Programming,Advanced,57.6,31,3.16,71
+CRS0039,JavaScript Fundamentals Advanced,Programming,Advanced,66.4,37,3.58,70
+CRS0040,C++ Programming Advanced,Programming,Advanced,40.6,24,3.25,103
+CRS0041,Machine Learning Intermediate,Data Science,Intermediate,25.8,14,4.04,142
+CRS0042,Machine Learning Advanced,Data Science,Advanced,66.3,38,4.21,127
+CRS0043,SQL for Analytics Intermediate,Data Science,Intermediate,31.1,20,4.39,431
+CRS0044,Data Visualization Advanced,Data Science,Advanced,44.0,26,4.07,51
+CRS0045,Deep Learning Beginner,Data Science,Beginner,13.1,8,3.84,245
+CRS0046,SQL for Analytics Intermediate,Data Science,Intermediate,19.4,10,4.5,543
+CRS0047,NLP Basics Beginner,Data Science,Beginner,13.6,7,4.06,271
+CRS0048,Machine Learning Advanced,Data Science,Advanced,55.6,29,4.5,126
+CRS0049,NLP Basics Advanced,Data Science,Advanced,51.7,29,4.82,232
+CRS0050,SQL for Analytics Beginner,Data Science,Beginner,5.9,6,2.54,58
+CRS0051,Data Visualization Advanced,Data Science,Advanced,64.7,36,4.08,55
+CRS0052,SQL for Analytics Intermediate,Data Science,Intermediate,39.7,24,4.64,204
+CRS0053,NLP Basics Beginner,Data Science,Beginner,8.8,5,2.66,107
+CRS0054,Big Data Processing Advanced,Data Science,Advanced,42.3,24,4.21,86
+CRS0055,NLP Basics Advanced,Data Science,Advanced,48.9,27,3.82,121
+CRS0056,Statistics Fundamentals Intermediate,Data Science,Intermediate,28.1,18,3.19,417
+CRS0057,Machine Learning Intermediate,Data Science,Intermediate,22.0,12,3.77,64
+CRS0058,Big Data Processing Advanced,Data Science,Advanced,63.3,34,3.46,62
+CRS0059,SQL for Analytics Beginner,Data Science,Beginner,14.1,12,3.77,332
+CRS0060,Statistics Fundamentals Advanced,Data Science,Advanced,55.1,30,4.73,292
+CRS0061,NLP Basics Advanced,Data Science,Advanced,56.6,33,4.29,23186
+CRS0062,SQL for Analytics Beginner,Data Science,Beginner,15.0,9,4.75,139
+CRS0063,Deep Learning Beginner,Data Science,Beginner,8.6,9,4.34,120
+CRS0064,NLP Basics Advanced,Data Science,Advanced,56.1,29,3.97,60
+CRS0065,SQL for Analytics Intermediate,Data Science,Intermediate,23.8,15,4.08,111
+CRS0066,Statistics Fundamentals Beginner,Data Science,Beginner,12.8,9,4.26,100
+CRS0067,NLP Basics Intermediate,Data Science,Intermediate,27.3,15,4.48,59
+CRS0068,Statistics Fundamentals Beginner,Data Science,Beginner,6.5,8,3.9,158
+CRS0069,Statistics Fundamentals Beginner,Data Science,Beginner,6.7,7,4.57,58
+CRS0070,NLP Basics Beginner,Data Science,Beginner,9.6,9,4.21,143
+CRS0071,NLP Basics Beginner,Data Science,Beginner,5.8,4,3.88,64
+CRS0072,Big Data Processing Intermediate,Data Science,Intermediate,24.3,17,4.44,52
+CRS0073,Machine Learning Intermediate,Data Science,Intermediate,32.8,21,4.25,116
+CRS0074,NLP Basics Advanced,Data Science,Advanced,55.1,31,4.7,58
+CRS0075,Machine Learning Advanced,Data Science,Advanced,67.2,35,4.54,130
+CRS0076,Big Data Processing Intermediate,Data Science,Intermediate,25.8,16,3.58,84
+CRS0077,Big Data Processing Advanced,Data Science,Advanced,49.5,27,4.2,64
+CRS0078,Data Visualization Advanced,Data Science,Advanced,75.9,41,3.76,90
+CRS0079,Statistics Fundamentals Beginner,Data Science,Beginner,14.7,9,4.38,122
+CRS0080,Statistics Fundamentals Intermediate,Data Science,Intermediate,22.0,11,4.61,70
+CRS0081,Business Analytics Advanced,Business,Advanced,51.5,27,3.83,53
+CRS0082,Business Analytics Beginner,Business,Beginner,8.4,5,3.73,132
+CRS0083,Project Management Advanced,Business,Advanced,54.0,27,4.28,196
+CRS0084,Agile Methodology Beginner,Business,Beginner,10.7,6,3.83,257
+CRS0085,Finance Basics Intermediate,Business,Intermediate,28.1,15,3.73,87
+CRS0086,Business Analytics Beginner,Business,Beginner,9.6,7,3.83,118
+CRS0087,Marketing Fundamentals Intermediate,Business,Intermediate,30.6,17,4.06,236
+CRS0088,Business Analytics Beginner,Business,Beginner,11.2,10,3.96,197
+CRS0089,Business Analytics Intermediate,Business,Intermediate,29.2,16,3.77,298
+CRS0090,Finance Basics Intermediate,Business,Intermediate,24.9,16,4.45,148
+CRS0091,Agile Methodology Beginner,Business,Beginner,11.9,6,4.3,90
+CRS0092,Marketing Fundamentals Intermediate,Business,Intermediate,38.7,22,3.03,343
+CRS0093,Strategic Thinking Intermediate,Business,Intermediate,29.1,18,4.13,136
+CRS0094,Finance Basics Advanced,Business,Advanced,77.4,39,3.88,287
+CRS0095,Marketing Fundamentals Advanced,Business,Advanced,74.8,38,4.5,81
+CRS0096,Project Management Intermediate,Business,Intermediate,15.1,10,4.96,82
+CRS0097,Finance Basics Beginner,Business,Beginner,12.4,8,4.08,93
+CRS0098,Agile Methodology Beginner,Business,Beginner,14.1,12,3.72,92
+CRS0099,Strategic Thinking Beginner,Business,Beginner,5.9,6,4.04,408
+CRS0100,Agile Methodology Intermediate,Business,Intermediate,19.8,13,4.86,99
+CRS0101,Agile Methodology Beginner,Business,Beginner,10.2,9,3.86,650
+CRS0102,Finance Basics Advanced,Business,Advanced,65.8,33,4.24,154
+CRS0103,Project Management Advanced,Business,Advanced,49.2,29,4.36,69
+CRS0104,Finance Basics Beginner,Business,Beginner,6.0,3,4.22,66
+CRS0105,Finance Basics Beginner,Business,Beginner,7.9,5,2.73,82
+CRS0106,Strategic Thinking Intermediate,Business,Intermediate,24.5,16,4.84,96
+CRS0107,Agile Methodology Intermediate,Business,Intermediate,38.7,20,4.47,51
+CRS0108,Agile Methodology Intermediate,Business,Intermediate,28.5,15,4.35,114
+CRS0109,Strategic Thinking Intermediate,Business,Intermediate,21.8,14,3.46,275
+CRS0110,Leadership Skills Intermediate,Business,Intermediate,15.3,12,3.96,464
+CRS0111,Marketing Fundamentals Advanced,Business,Advanced,60.8,34,4.11,88
+CRS0112,Agile Methodology Beginner,Business,Beginner,7.9,6,4.89,580
+CRS0113,Agile Methodology Beginner,Business,Beginner,12.3,11,4.85,133
+CRS0114,Marketing Fundamentals Advanced,Business,Advanced,44.3,23,4.46,96
+CRS0115,Marketing Fundamentals Intermediate,Business,Intermediate,35.5,18,3.45,56
+CRS0116,Project Management Advanced,Business,Advanced,78.0,43,4.07,190
+CRS0117,Business Analytics Advanced,Business,Advanced,67.7,35,3.85,1823
+CRS0118,Project Management Advanced,Business,Advanced,68.2,35,4.39,76
+CRS0119,Finance Basics Beginner,Business,Beginner,14.2,8,4.51,274
+CRS0120,Business Analytics Beginner,Business,Beginner,5.4,4,3.27,78
+CRS0121,Design Thinking Beginner,Design,Beginner,10.4,10,4.34,51
+CRS0122,Graphic Design Advanced,Design,Advanced,75.0,42,4.4,83
+CRS0123,UI/UX Design Advanced,Design,Advanced,59.2,30,4.33,93
+CRS0124,Design Thinking Advanced,Design,Advanced,49.6,29,4.57,69
+CRS0125,Prototyping Tools Advanced,Design,Advanced,79.5,42,4.46,686
+CRS0126,Product Design Beginner,Design,Beginner,12.9,9,4.78,69
+CRS0127,Graphic Design Intermediate,Design,Intermediate,31.2,19,3.79,64
+CRS0128,Graphic Design Advanced,Design,Advanced,42.3,24,4.69,61
+CRS0129,Design Thinking Intermediate,Design,Intermediate,20.6,11,4.34,355
+CRS0130,UI/UX Design Intermediate,Design,Intermediate,18.2,14,3.91,91
+CRS0131,Prototyping Tools Beginner,Design,Beginner,8.7,5,4.08,55
+CRS0132,Prototyping Tools Beginner,Design,Beginner,13.5,11,4.37,124
+CRS0133,Product Design Beginner,Design,Beginner,7.7,6,4.29,285
+CRS0134,UI/UX Design Beginner,Design,Beginner,12.0,8,3.87,51
+CRS0135,Product Design Beginner,Design,Beginner,13.3,10,3.85,110
+CRS0136,User Research Advanced,Design,Advanced,64.7,35,4.25,117
+CRS0137,Prototyping Tools Advanced,Design,Advanced,70.4,40,4.37,550
+CRS0138,UI/UX Design Advanced,Design,Advanced,67.5,38,4.43,128
+CRS0139,Product Design Advanced,Design,Advanced,41.8,21,4.56,79
+CRS0140,Graphic Design Intermediate,Design,Intermediate,34.3,18,4.7,170
+CRS0141,UI/UX Design Advanced,Design,Advanced,67.2,38,4.35,93
+CRS0142,Graphic Design Intermediate,Design,Intermediate,24.9,15,3.45,67
+CRS0143,Prototyping Tools Beginner,Design,Beginner,5.3,5,3.99,336
+CRS0144,Graphic Design Advanced,Design,Advanced,73.8,39,4.65,492
+CRS0145,Prototyping Tools Intermediate,Design,Intermediate,34.9,20,4.19,66
+CRS0146,User Research Beginner,Design,Beginner,9.9,5,4.42,50
+CRS0147,Visual Design Intermediate,Design,Intermediate,24.8,15,4.05,224
+CRS0148,UI/UX Design Beginner,Design,Beginner,5.4,5,2.66,122
+CRS0149,User Research Beginner,Design,Beginner,5.1,5,4.4,90
+CRS0150,Graphic Design Advanced,Design,Advanced,67.6,37,4.48,146
+CRS0151,Prototyping Tools Advanced,Design,Advanced,77.4,42,3.21,180
+CRS0152,Prototyping Tools Beginner,Design,Beginner,13.0,7,4.31,99
+CRS0153,UI/UX Design Advanced,Design,Advanced,69.3,36,4.77,154
+CRS0154,Prototyping Tools Beginner,Design,Beginner,10.0,7,4.66,55
+CRS0155,Prototyping Tools Advanced,Design,Advanced,58.5,31,3.98,82
+CRS0156,Design Thinking Beginner,Design,Beginner,8.7,5,4.87,105
+CRS0157,Product Design Intermediate,Design,Intermediate,37.5,19,4.33,141
+CRS0158,Product Design Beginner,Design,Beginner,11.3,7,4.18,70
+CRS0159,Visual Design Beginner,Design,Beginner,13.7,9,4.69,972
+CRS0160,User Research Advanced,Design,Advanced,53.0,30,4.84,63
+CRS0161,Kubernetes Advanced,Cloud,Advanced,73.2,38,3.89,62
+CRS0162,Azure Basics Beginner,Cloud,Beginner,6.7,5,3.16,129
+CRS0163,DevOps Essentials Beginner,Cloud,Beginner,13.7,8,4.24,52
+CRS0164,Docker Containers Intermediate,Cloud,Intermediate,26.3,17,4.41,1725
+CRS0165,Cloud Security Advanced,Cloud,Advanced,78.1,41,4.35,106
+CRS0166,Cloud Architecture Beginner,Cloud,Beginner,11.7,6,4.75,983
+CRS0167,DevOps Essentials Beginner,Cloud,Beginner,5.9,6,4.18,638
+CRS0168,Azure Basics Beginner,Cloud,Beginner,11.8,9,4.3,168
+CRS0169,Cloud Architecture Intermediate,Cloud,Intermediate,20.4,12,4.61,14225
+CRS0170,Azure Basics Beginner,Cloud,Beginner,5.5,4,4.19,357
+CRS0171,DevOps Essentials Intermediate,Cloud,Intermediate,23.2,14,4.27,261
+CRS0172,Cloud Security Beginner,Cloud,Beginner,6.2,6,4.8,88
+CRS0173,Cloud Architecture Advanced,Cloud,Advanced,54.9,32,3.7,140
+CRS0174,DevOps Essentials Advanced,Cloud,Advanced,74.5,42,4.35,87
+CRS0175,Cloud Architecture Beginner,Cloud,Beginner,9.0,5,3.95,746
+CRS0176,Cloud Architecture Beginner,Cloud,Beginner,5.2,7,4.49,54
+CRS0177,Cloud Architecture Beginner,Cloud,Beginner,14.3,8,4.68,245
+CRS0178,Kubernetes Intermediate,Cloud,Intermediate,22.8,14,4.36,64
+CRS0179,Docker Containers Intermediate,Cloud,Intermediate,19.5,13,3.73,849
+CRS0180,Kubernetes Advanced,Cloud,Advanced,62.0,32,3.78,262
+CRS0181,DevOps Essentials Advanced,Cloud,Advanced,48.5,26,3.76,83
+CRS0182,Cloud Architecture Beginner,Cloud,Beginner,7.4,7,3.26,141
+CRS0183,AWS Fundamentals Advanced,Cloud,Advanced,46.7,28,4.27,51
+CRS0184,Docker Containers Advanced,Cloud,Advanced,61.9,32,3.7,1835
+CRS0185,Cloud Architecture Intermediate,Cloud,Intermediate,32.4,17,3.17,59
+CRS0186,Docker Containers Intermediate,Cloud,Intermediate,33.1,21,4.79,54
+CRS0187,Cloud Architecture Advanced,Cloud,Advanced,72.0,37,3.54,116
+CRS0188,Docker Containers Intermediate,Cloud,Intermediate,23.3,16,3.98,101
+CRS0189,Cloud Architecture Advanced,Cloud,Advanced,78.3,43,4.82,57
+CRS0190,Cloud Architecture Intermediate,Cloud,Intermediate,33.9,19,4.6,2556
+CRS0191,Kubernetes Beginner,Cloud,Beginner,14.3,9,4.34,59
+CRS0192,DevOps Essentials Advanced,Cloud,Advanced,68.3,38,4.72,56
+CRS0193,Docker Containers Advanced,Cloud,Advanced,52.2,28,2.86,485
+CRS0194,Kubernetes Advanced,Cloud,Advanced,74.1,40,4.24,335
+CRS0195,DevOps Essentials Advanced,Cloud,Advanced,52.2,27,4.81,82
+CRS0196,Cloud Architecture Intermediate,Cloud,Intermediate,31.0,17,2.92,63
+CRS0197,DevOps Essentials Advanced,Cloud,Advanced,45.9,27,3.96,78
+CRS0198,Docker Containers Intermediate,Cloud,Intermediate,26.0,16,4.04,61
+CRS0199,DevOps Essentials Intermediate,Cloud,Intermediate,34.5,19,4.27,77
+CRS0200,Kubernetes Intermediate,Cloud,Intermediate,32.3,18,4.79,114
