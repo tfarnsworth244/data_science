@@ -25,10 +25,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ## 🚀 Featured Portfolio Projects
 
-### 🔥 Employee Burnout Prediction
+### 🔥 [Employee Burnout Prediction](./projects/01-employee-burnout)
 *Predicting workplace burnout using HR analytics and behavioral data*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/employee-burnout-prediction)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/01-employee-burnout)
 [![Medium](https://img.shields.io/badge/Read-Article-blue)](https://medium.com/article-link)
 [![Demo](https://img.shields.io/badge/Live-Demo-green)](https://demo-link)
 
@@ -38,10 +38,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 💪 Personalized Wellness Optimization
+### 💪 [Personalized Wellness Optimization](./projects/02-wellness-optimization)
 *Segmenting users and recommending data-driven wellness interventions*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/wellness-optimization)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/02-wellness-optimization)
 [![Medium](https://img.shields.io/badge/Read-Article-blue)](https://medium.com/article-link)
 
 **Impact:** Personalized wellness plans increase engagement by 30%
@@ -50,10 +50,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 🎭 Cognitive Bias Detection
+### 🎭 [Cognitive Bias Detection](./projects/03-cognitive-bias-detection)
 *Identifying and mitigating bias in organizational decision-making*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/cognitive-bias-detection)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/03-cognitive-bias-detection)
 [![Blog](https://img.shields.io/badge/Read-Case%20Study-orange)](https://blog-link)
 
 **Impact:** Audit framework for fairer performance evaluations
@@ -62,10 +62,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 😴 Sleep Pattern Analytics
+### 😴 [Sleep Pattern Analytics](./projects/04-sleep-pattern-analytics)
 *Correlating sleep quality with productivity and cognitive performance*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/sleep-pattern-analytics)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/04-sleep-pattern-analytics)
 [![Viz](https://img.shields.io/badge/Interactive-Visualization-purple)](https://viz-link)
 
 **Impact:** Data-driven sleep recommendations for remote workers
@@ -74,10 +74,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 🛒 Consumer Behavior Under Cognitive Load
+### 🛒 [Consumer Behavior Under Cognitive Load](./projects/05-consumer-cognitive-load)
 *Analyzing how UX complexity affects purchase decisions*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/consumer-cognitive-load)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/05-consumer-cognitive-load)
 [![Presentation](https://img.shields.io/badge/View-Slides-red)](https://slides-link)
 
 **Impact:** UX simplification leads to 12% increase in conversion
@@ -86,10 +86,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 📡 Real-Time Stress Detection
+### 📡 [Real-Time Stress Detection](./projects/06-stress-detection)
 *Multimodal stress prediction using physiological and behavioral signals*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/stress-detection)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/06-stress-detection)
 [![Demo](https://img.shields.io/badge/Jupyter-Demo-orange)](https://demo-link)
 
 **Impact:** Early intervention system for high-stress environments
@@ -98,10 +98,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 🎓 Adaptive Learning System
+### 🎓 [Adaptive Learning System](./projects/07-adaptive-learning)
 *Reinforcement learning for personalized education pathways*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/adaptive-learning)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/07-adaptive-learning)
 [![Report](https://img.shields.io/badge/Read-Report-blue)](https://report-link)
 
 **Impact:** 25% improvement in learning efficiency metrics
@@ -110,10 +110,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 🥗 Nutrition and Cognitive Focus
+### 🥗 [Nutrition and Cognitive Focus](./projects/08-nutrition-focus)
 *Modeling the relationship between diet and mental performance*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/nutrition-focus)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/08-nutrition-focus)
 [![Blog](https://img.shields.io/badge/Data-Story-green)](https://blog-link)
 
 **Impact:** Evidence-based nutritional guidelines for knowledge workers
@@ -122,10 +122,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 💬 Mental Health Sentiment Analysis
+### 💬 [Mental Health Sentiment Analysis](./projects/09-mental-health-sentiment)
 *Tracking team sentiment trends through anonymous text analysis*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/mental-health-sentiment)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/09-mental-health-sentiment)
 [![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-purple)](https://dashboard-link)
 
 **Impact:** Proactive mental health support for distributed teams
@@ -134,10 +134,10 @@ I specialize in **behavioral data science**—using advanced analytics and machi
 
 ---
 
-### 🎯 Behavioral Nudges for Habit Formation
+### 🎯 [Behavioral Nudges for Habit Formation](./projects/10-behavioral-nudges)
 *Causal inference to identify effective behavior change interventions*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/yourusername/behavioral-nudges)
+[![View Project](https://img.shields.io/badge/View-Project-black)](./projects/10-behavioral-nudges)
 [![Case Study](https://img.shields.io/badge/Read-Case%20Study-blue)](https://case-study-link)
 
 **Impact:** 40% increase in long-term habit persistence
