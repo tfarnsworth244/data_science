@@ -1,0 +1,81 @@
+user_id,age,chronotype,target_sleep_hrs
+USER001,38,Night Owl,8.15
+USER002,33,Early Bird,6.52
+USER003,40,Neutral,7.68
+USER004,47,Night Owl,8.55
+USER005,33,Early Bird,6.21
+USER006,33,Early Bird,7.65
+USER007,47,Neutral,7.71
+USER008,41,Early Bird,8.13
+USER009,31,Night Owl,6.51
+USER010,39,Night Owl,6.44
+USER011,31,Neutral,7.92
+USER012,31,Night Owl,7.74
+USER013,36,Night Owl,7.7
+USER014,25,Early Bird,7.78
+USER015,25,Night Owl,6.96
+USER016,30,Neutral,7.69
+USER017,26,Night Owl,7.73
+USER018,37,Night Owl,6.93
+USER019,27,Neutral,8.99
+USER020,25,Early Bird,7.88
+USER021,46,Early Bird,6.55
+USER022,33,Neutral,8.03
+USER023,35,Night Owl,6.72
+USER024,25,Night Owl,8.13
+USER025,30,Early Bird,8.43
+USER026,35,Neutral,6.84
+USER027,25,Neutral,8.27
+USER028,38,Early Bird,7.83
+USER029,30,Early Bird,8.16
+USER030,32,Neutral,9.0
+USER031,30,Night Owl,7.3
+USER032,49,Neutral,6.9
+USER033,34,Neutral,6.79
+USER034,26,Neutral,6.85
+USER035,41,Neutral,7.44
+USER036,25,Night Owl,7.77
+USER037,36,Night Owl,7.72
+USER038,25,Neutral,8.16
+USER039,25,Neutral,7.51
+USER040,36,Neutral,8.66
+USER041,40,Neutral,7.29
+USER042,36,Early Bird,9.0
+USER043,34,Neutral,8.0
+USER044,32,Neutral,6.81
+USER045,25,Early Bird,6.64
+USER046,29,Neutral,7.89
+USER047,31,Night Owl,7.32
+USER048,43,Early Bird,8.07
+USER049,37,Early Bird,7.88
+USER050,25,Neutral,7.44
+USER051,37,Night Owl,6.82
+USER052,31,Early Bird,6.29
+USER053,29,Neutral,7.14
+USER054,39,Night Owl,8.19
+USER055,43,Early Bird,7.67
+USER056,42,Neutral,6.5
+USER057,28,Neutral,7.64
+USER058,32,Neutral,7.81
+USER059,37,Neutral,6.79
+USER060,42,Neutral,7.62
+USER061,31,Early Bird,7.55
+USER062,33,Night Owl,6.59
+USER063,26,Neutral,7.79
+USER064,25,Early Bird,7.95
+USER065,41,Early Bird,8.37
+USER066,45,Neutral,8.34
+USER067,34,Neutral,6.4
+USER068,43,Early Bird,6.75
+USER069,37,Neutral,7.91
+USER070,29,Early Bird,7.91
+USER071,37,Neutral,7.91
+USER072,47,Early Bird,9.0
+USER073,34,Neutral,7.96
+USER074,47,Neutral,8.41
+USER075,25,Night Owl,8.26
+USER076,41,Early Bird,8.02
+USER077,35,Neutral,7.25
+USER078,32,Early Bird,8.11
+USER079,35,Night Owl,6.88
+USER080,25,Night Owl,7.31
